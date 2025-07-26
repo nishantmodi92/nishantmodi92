@@ -6,7 +6,20 @@
 
 📍 Noida, India  
 📫 Email: nishantmodimaster@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishantmodi92)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantmodi92)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nishantmodimaster@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantmodi92)
+
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building Android apps using modern tools like Jetpack Compose and Firebase.
+- 🌱 Constantly improving app performance, modularity, and scalability.
+- 🤝 Open to collaboration on real-world Android products.
+- 🧠 I believe in clean code, reusable components, and user-first experiences.
 
 ---
 
@@ -42,7 +55,7 @@
   Stripe, Google Pay, Google Maps, Google Fit
 
 - **DevOps & Tools**:  
-  ![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)  
   CI/CD Pipelines, Firebase App Distribution
 
 ---
@@ -51,18 +64,41 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [ChatConnect](https://github.com/nishantmodi92/ChatConnect) | Real-time secure messaging | Kotlin, Firebase |
-| [FinMate](https://github.com/nishantmodi92/FinMate) | Digital wallet with Stripe/Google Pay | Jetpack Compose, Firebase |
-| [Healthify](https://github.com/nishantmodi92/Healthify) | Fitness tracker with Google Fit | Compose, Room |
-| [EduPlay](https://github.com/nishantmodi92/EduPlay) | Offline E-learning app with ExoPlayer | Kotlin, Paging3 |
+| [ChatConnect](https://github.com/nishantmodi92/ChatConnect) | Real-time secure messaging | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) |
+| [FinMate](https://github.com/nishantmodi92/FinMate) | Digital wallet with Stripe/Google Pay | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=flat-square) ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat-square) |
+| [Healthify](https://github.com/nishantmodi92/Healthify) | Fitness tracker with Google Fit | ![Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=flat-square) ![Room](https://img.shields.io/badge/Room_DB-F44336?style=flat-square) |
+| [EduPlay](https://github.com/nishantmodi92/EduPlay) | Offline E-learning app with ExoPlayer | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square) ![Paging3](https://img.shields.io/badge/Paging3-1976D2?style=flat-square) |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=radical)  
+**📊 Activity Overview**  
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=radical)
+
+**🗂️ Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact&theme=radical)
+
+**🔥 GitHub Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishantmodi92&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-📬 *Open to connecting with top-tier teams, recruiters & engineers building world-class Android products.*
+## 🏆 GitHub Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nishantmodi92&theme=onedark&title=Stars,Followers,Commit,Repositories,PullRequest)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantmodi92)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantmodimaster@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishantmodi92)
+
+---
+
+📬 *Actively connecting with visionary teams and recruiters to build the next generation of world-class Android products. Let’s create impact together!*
+
+
+
