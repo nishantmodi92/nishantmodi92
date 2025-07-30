@@ -11,10 +11,9 @@
 
 - 🔭 I’m currently working at **EXL Services** as an Android Developer  
 - 🌱 I specialize in **Jetpack Compose, Firebase, Clean Architecture, Kotlin**  
-- 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/nishantmodi92)
+- 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/nishantmodi92)  
 - 👨‍💼 Actively looking for **challenging Android Developer roles**  
 - 📫 How to reach me: **nishantmodimaster@gmail.com**
-- 
 
 ---
 
@@ -39,6 +38,7 @@
 | [Healthify](https://github.com/nishantmodi92/Healthify) | Real-time fitness tracker using Google Fit | MVVM, Java |
 | [FoodDeliveryApp](https://github.com/nishantmodi92/FoodDeliveryApp) | Live tracking & food ordering UI | Firebase, Retrofit, Maps |
 | [EduPlay](https://github.com/nishantmodi92/EduPlay) | Offline video learning app with quizzes | ExoPlayer, Firebase |
+| [GroceryEase](https://github.com/nishantmodi92/GroceryEase) | Grocery shopping and delivery app with order tracking and offline cart sync | Kotlin, Compose, Firebase, Room, Retrofit, Maps API |
 
 ---
 
@@ -57,4 +57,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishantmodi92/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:nishantmodimaster@gmail.com)
-
