@@ -1,5 +1,3 @@
-
-
 <!-- 👋 HERO -->
 <div align="center">
 
@@ -166,13 +164,6 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact" alt="Top Languages" />
 
-<!-- Contribution Snake (requires GitHub Action below) -->
-
-![Snake animation](https://raw.githubusercontent.com/nishantmodi92/nishantmodi92/output/snake.svg)
-
-</div>
-
----
 
 ## <a id="contact"></a>📬 Let’s Connect
 
@@ -184,55 +175,6 @@
 </p>
 
 <p align="center">✨ Open to impactful Android roles & product collaborations</p>
-
----
-
-### 🔧 Setup: Contribution Snake (optional but recommended)
-1. Create folder: `.github/workflows/` in this repo.
-2. Add a file named `snake.yml` with the following content:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: nishantmodi92
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-````
-
-3. Commit & push. The action publishes `snake.svg` to the `output` branch. The image link above will then render.
-
----
-
-### 🖋 Typing Header (already added)
-
-The animated typing header is powered by `readme-typing-svg` and requires no extra setup.
-
----
-
-### 💡 Tips
-
-* Add short GIFs/screens in each project README to simulate a slider effect on your profile.
-* Keep commit messages clear; pin your top repos.
-* Keep this profile **company-neutral** and metric‑driven.
-
-<!-- Footer counters -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishantmodi92&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
