@@ -1,130 +1,100 @@
-<!-- 🚀 HERO -->
-<div align="center">
+<!-- 🌟 NISHANT MODI | Senior Android Developer -->
 
-<!-- Animated Gradient Background -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<h1 align="center">👋 Hi, I'm <b>Nishant Modi</b></h1>
+<h3 align="center">💻 Senior Android Developer | Kotlin & Jetpack Compose Specialist | Firebase & System Design Expert</h3>
 
-<h1>👋 Hi, I'm <span style="color:#7F52FF;">Nishant Modi</span> — Senior Android Engineer</h1>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=800&center=true&vCenter=true&width=720&lines=Jetpack+Compose+%7C+Kotlin+%7C+Firebase;Clean+Architecture+%7C+MVVM+%7C+MVI;Offline-First+%7C+Scalable+Mobile+Systems;Pixel-Perfect+UI+%7C+App+Performance;Mentor+%26+Team+Contributor" alt="Typing SVG" />
-</a>
-
-<p><b>6+ yrs building enterprise & consumer Android apps • DAU ↑18% • Revenue ↑12% • Fraud ↓60% • Crash <2%</b></p>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=nishantmodi92&label=Profile+Views&color=blueviolet&style=flat-square" />
-
-</div>
-
----
-
-## 💡 About Me  
-🚀 **6+ years** in fintech, healthtech, e-commerce & edtech  
-📉 Maintained **<2% crash rate** across production apps  
-⚡ **30% faster cold start** with Baseline Profiles & memory tuning  
-💳 Secured **$10M+ transactions** with biometric auth & fraud detection  
-👨‍🏫 Mentored 5+ engineers & led architecture + performance improvements  
-🏆 **Employee of the Year (2023)** | ⭐ **Client Appreciation (2025)**  
-
-> I turn product ideas into **reliable, secure & delightful Android experiences**  
-
----
-
-## 🛠 Tech Stack  
-
-**Languages & UI**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge)
-
-**Architecture & Patterns**  
-![MVVM](https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-009688?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1976D2?style=for-the-badge)
-![Modularization](https://img.shields.io/badge/Modularization-455A64?style=for-the-badge)
-
-**Cloud & APIs**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-3D7EBB?style=for-the-badge)
-![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge)
-
-**DevOps & CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge)
-![Fastlane](https://img.shields.io/badge/Fastlane-00C853?style=for-the-badge)
-![Firebase App Distribution](https://img.shields.io/badge/Firebase%20Distribution-FFA000?style=for-the-badge)
-
-**Testing & Quality**  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![Espresso](https://img.shields.io/badge/Espresso-6F4E37?style=for-the-badge)
-![Robolectric](https://img.shields.io/badge/Robolectric-FF6F00?style=for-the-badge)
-![Compose UI Tests](https://img.shields.io/badge/Compose%20UI%20Tests-4285F4?style=for-the-badge)
-
----
-
-## 📈 Impact Highlights  
-- 📉 Crash rate **<2%** across production apps  
-- 🚀 Cold start **↓30%** with Baseline Profiles  
-- 💳 **$10M+ transactions** secured (fraud ↓60%)  
-- 📊 **Retention +35%** via Compose-based UX  
-- 🌍 Scaled apps to **10K+ concurrent global users**  
-
----
-
-## 💼 Featured Projects  
-
-### 🔐 [ChatConnect](https://github.com/nishantmodi92/chatconnect-android)  
-**Encrypted Messaging** | Kotlin · Compose · Firebase · Hilt  
-📊 25K+ daily messages | DAU ↑25%  
-
-### 💳 [FinMate](https://github.com/nishantmodi92/fintech-wallet)  
-**Digital Wallet** | Biometric Auth · Play Billing · Modularization  
-📊 Fraud ↓60% | 98% secure transactions  
-
-### 🍔 [FoodDeliveryApp](https://github.com/nishantmodi92/food-delivery-android)  
-**Real-Time Ordering** | Kotlin · Maps API · Retrofit · Firebase  
-📊 Startup ↓30% | 98% crash-free sessions  
-
-### 🏋️ [Healthify](https://github.com/nishantmodi92/healthify)  
-**Fitness Tracker** | Kotlin · Compose · Google Fit API  
-📊 Engagement ↑42%  
-
-### 🎓 [EduPlay](https://github.com/nishantmodi92/e-learning-android)  
-**E-Learning Platform** | Kotlin · ExoPlayer · Paging3  
-📊 Course completion ↑34%  
-
-### 🛒 [GroceryEase](https://github.com/nishantmodi92/GroceryEase)  
-**Grocery Shopping** | Kotlin · Firebase · Google Maps API  
-📊 Zero cart drop-offs | Offline cart sync  
-
----
-
-## 🏅 Awards & Recognition  
-🥇 **Employee of the Year (2023)** – Architecture Excellence  
-⭐ **Client Appreciation (2025)** – Global Delivery Impact  
-🌟 **Star Performer** – Productivity ↑30%  
-🔥 **Open Source** – 6+ projects | 200+ GitHub stars  
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nishantmodi92&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🌍 Professional Presence  
 <p align="center">
-  <a href="https://nishantmodi92.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/nishantmodi92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
-  <a href="mailto:nishantmodimaster@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge" /></a>
-  <a href="https://github.com/nishantmodi92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" /></a>
+  <a href="https://nishantmodi92.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nishantmodi92" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/nishantmodi92" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-<p align="center"><b>✨ Open to impactful Android roles & collaborations ✨</b></p>
+### 🌟 About Me
+🚀 6+ years of experience building **high-performance Android apps** across FinTech, HealthTech, FoodTech, and EdTech.  
+💡 Specialized in **Kotlin, Jetpack Compose, Firebase, and Clean Architecture**.  
+🔥 Passionate about designing **scalable, elegant Android systems** with measurable business impact.  
+🎯 Google Associate Android Developer — *Certification in Progress*.  
+📍 Based in Noida, India  
+
+---
+
+### 🧠 Tech Stack & Tools
+
+#### 💻 Languages & Frameworks
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
+#### ⚙️ Architecture & Libraries
+![MVVM](https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-009688?style=for-the-badge)
+![Dagger Hilt](https://img.shields.io/badge/Hilt-673AB7?style=for-the-badge&logo=dagger&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-4CAF50?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-FF9800?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-2196F3?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge)
+
+#### ☁️ Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=firebase)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### 🧩 Tools & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00C853?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-6D4C41?style=for-the-badge)
+
+---
+
+### 🏆 Key Achievements
+✅ Scaled enterprise apps to **100K+ active users** with **99.9% uptime & 98% crash-free sessions**  
+✅ Boosted DAU ↑18% & revenue ↑12% through modular architecture optimization  
+✅ Employee of the Year (2023) & Client Appreciation Award (2025)  
+✅ Open-source recognition: **200+ GitHub Stars** across Android projects  
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [💬 **ChatConnect**](https://github.com/nishantmodi92/chatconnect-android) | Encrypted real-time chat app with Firebase Firestore & FCM | Kotlin, Jetpack Compose, Hilt, Firebase |
+| [💳 **FinMate**](https://github.com/nishantmodi92/fintech-wallet) | Digital wallet & expense manager with biometric auth & Play Billing | Kotlin, Compose, Firebase |
+| [🍔 **FoodDeliveryApp**](https://github.com/nishantmodi92/food-delivery-android) | Real-time food delivery & live order tracking | Compose, Firebase, Maps API |
+| [💪 **Healthify**](https://github.com/nishantmodi92/healthify) | Fitness & wellness tracker integrated with Google Fit API | Compose, Firebase, Google Fit |
+| [📚 **EduPlay**](https://github.com/nishantmodi92/e-learning-android) | E-learning app with offline video playback | Compose, ExoPlayer, Paging3 |
+| [🛒 **GroceryEase**](https://github.com/nishantmodi92/GroceryEase) | Grocery delivery app with offline cart sync & FCM notifications | Firebase, Room, Hilt |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishantmodi92&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://nishantmodi92.github.io"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-1abc9c?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/nishantmodi92"><img src="https://img.shields.io/badge/💼 LinkedIn-Connect-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/nishantmodi92"><img src="https://img.shields.io/badge/💻 GitHub-Follow-black?style=for-the-badge" /></a>
+</p>
+
+---
+
+⭐ *“Code with clarity. Build with purpose. Deliver with impact.”*  
+💬 Let’s collaborate on **open-source Android projects** or discuss **Jetpack Compose innovations!**
