@@ -1,180 +1,142 @@
-⭐ NISHANT MODI — Senior Android Developer | Mobile App Architect
+<h1 align="center">👋 Hi, I'm <span style="color:#00aaff">Nishant Modi</span></h1>
+<h3 align="center">Senior Android Developer | Mobile App Architect | Kotlin & Compose Specialist</h3>
 
-🚀 Building high-scale, secure, real-time mobile systems with Kotlin, Jetpack Compose & Distributed Architecture
+<p align="center">
+Building high-scale, secure, real-time, offline-first Android systems for 100K+ users.  
+Focused on Distributed Architecture, Performance Engineering, and Secure Mobile Systems.
+</p>
 
-🔥 ABOUT ME
+<p align="center">
+<a href="https://github.com/nishantmodi92"><img src="https://komarev.com/ghpvc/?username=nishantmodi92&label=Profile%20Visits&color=blue&style=flat" /></a>
+</p>
 
-I am a Senior Android Developer (5+ years) specializing in real-time apps, high-scale systems, secure architectures, and performance engineering.
-I build apps that run fast, scale to 100K+ users, maintain 99.9% uptime, and deliver <300ms real-time latency.
+---
 
-I architect multi-module systems, design offline-first pipelines, implement modern Compose UIs, and ensure enterprise-grade security (PCI-DSS, GDPR, AES-encrypted flows, Play Integrity API).
+## 🚀 **About Me**
+Senior Android Developer (5+ years) crafting **scalable, low-latency, secure** mobile ecosystems across FinTech, FoodTech, and HealthTech.
 
-I love building products that users love, systems that scale, and codebases that teams trust.
+✔ Expert in **Kotlin, Jetpack Compose, Clean Architecture, Modularization**  
+✔ Built real-time systems with **<300ms latency**  
+✔ Designed secure mobile pipelines with **AES + Token Rotation + Play Integrity**  
+✔ Delivered **98% crash-free**, **45% fewer ANRs**, **30% faster startup**  
+✔ Focus on **Distributed Systems, Offline-First Sync, CI/CD Automation**
 
-🛠️ TECH STACK & BADGES
+---
 
-Languages & UI
-<p> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/XML-0F80C1?style=for-the-badge"/> </p>
-Architecture
-<p> <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/MVI-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Clean%20Architecture-1A73E8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Modular%20Architecture-6200EE?style=for-the-badge"/> </p>
-Backend / Cloud
-<p> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/REST-25A1DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-3F7F4C?style=for-the-badge"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/> </p>
-Performance
-<p> <img src="https://img.shields.io/badge/Perfetto-673AB7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Baseline%20Profiles-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Macrobenchmark-3949AB?style=for-the-badge"/> </p>
-Security
-<p> <img src="https://img.shields.io/badge/AES--256-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/OAuth2-3D5AFE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Play%20Integrity-34A853?style=for-the-badge"/> <img src="https://img.shields.io/badge/Biometrics-1A73E8?style=for-the-badge"/> </p>
-Tools
-<p> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Fastlane-E1302A?style=for-the-badge&logo=fastlane&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Crashlytics-0096FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2E7D32?style=for-the-badge"/> </p>
+## 🧩 **Tech Stack & Tools**
 
-📊 IMPACT HIGHLIGHTS
+### **📱 Android & UI**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge)
+![MaterialYou](https://img.shields.io/badge/Material%20You-34A853?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-FF9800?style=for-the-badge)
 
-🚀 Performance & Scale
+### **🏗 Architecture**
+![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-purple?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge)
+![Modular](https://img.shields.io/badge/Multi--Module-9C27B0?style=for-the-badge)
 
-100K+ global users
+### **☁ Backend & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-00C7B7?style=for-the-badge)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge)
 
-98% crash-free production stability
+### **⚙ Performance & Security**
+![Perfetto](https://img.shields.io/badge/Perfetto-673AB7?style=for-the-badge)
+![BaselineProfiles](https://img.shields.io/badge/Baseline%20Profiles-009688?style=for-the-badge)
+![AES](https://img.shields.io/badge/AES%20Encryption-3F51B5?style=for-the-badge)
+![Integrity](https://img.shields.io/badge/Play%20Integrity%20API-2196F3?style=for-the-badge)
 
-45% fewer ANRs
+### **🛠 DevOps**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge)
+![Fastlane](https://img.shields.io/badge/Fastlane-FF2D55?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
 
-30% faster cold start
+---
 
-25% lower memory usage
+# 🔥 **Featured Projects**
 
-<300ms real-time chat & GPS latency
+---
 
-🔒 Security & Reliability
+## 🟦 1. ChatConnect — Real-Time Encrypted Messaging (25K+ Users)
+📌 **Tech:** Kotlin, Jetpack Compose, Firebase, FCM, Hilt, Offline Sync  
+⚡ **Impact:**  
+- <300ms messaging latency  
+- 98% crash-free  
+- End-to-end encrypted channels  
+- Conflict resolution + delta sync  
 
-Zero security breaches
+⭐ **Metrics:**  
+- 25K+ active users  
+- 45% fewer ANRs  
+- 30% faster launch  
 
-PCI-DSS + GDPR compliant
+🔗 **GitHub:** https://github.com/nishantmodi92/securechatx-android
 
-Encrypted chat flows (AES + token rotation)
 
-99.9% uptime
+---
 
-🧩 Engineering Excellence
+## 🟩 2. FoodDeliveryApp — Real-Time Orders + Live GPS Tracking
+📌 **Tech:** Kotlin, Compose, Firebase, Maps API, Retrofit, Clean Architecture  
+⚡ **Impact:**  
+- 300ms GPS refresh  
+- Live order tracking  
+- 30% faster startup using Baseline Profiles  
+- Smooth Material You animations  
 
-Built multi-module architectures used across teams
+🔗 **GitHub:** https://github.com/nishantmodi92/swifteats-android
 
-Improved delivery velocity by 40%
+---
 
-Built internal UI kits, networking SDKs, analytics libraries
+## 🟧 3. GroceryEase — Smart Grocery & Delivery App
+📌 **Tech:** Compose, Firebase, Room, Hilt, Retrofit  
+⚡ **Impact:**  
+- Offline-first multi-layer caching  
+- 20% user retention improvement  
+- Real-time updates & cart sync  
 
-🧠 SYSTEM DESIGN EXCELLENCE
+🔗 **GitHub:** https://github.com/nishantmodi92/grocerly-android  
 
-Designed & delivered:
+---
 
-✔ Real-time chat architectures
+# 📝 **Technical Publications**
+📚 *By Nishant Modi — Published 2024–2025*  
+- **Distributed Offline-First Architecture in Android (2025)**  
+- **30% Faster Startup with Baseline Profiles (2025)**  
+- **Secure Mobile Communication with AES + Token Rotation (2024)**  
 
-✔ High-scale FoodTech/FitTech systems
+---
 
-✔ Multi-region distributed apps
+# 🏆 **Achievements**
+- 🏅 **Employee of the Year – 2023**  
+- ⭐ **Client Appreciation – 2025**  
+- 🚀 **Star Performer – CI/CD Automation**  
+- 🌟 **200+ GitHub Stars across projects**  
+- 🔐 **Recognized for Secure, Scalable Mobile Engineering**
 
-✔ Event-driven pipelines
+---
 
-✔ Pub/Sub messaging
+# 📊 **GitHub Stats & Activity**
 
-✔ Offline-first sync, caching & conflict resolution
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact&theme=tokyonight" />
+</p>
 
-✔ Security-first mobile-cloud design
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantmodi92&theme=tokyonight" />
+</p>
 
-📱 FEATURED PROJECTS
+---
 
-🔹 ChatConnect – Real-Time Encrypted Messaging
+# 🤝 **Connect With Me**
+<p align="center">
+<a href="https://linkedin.com/in/nishantmodi92"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://nishantmodi92.github.io"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
+<a href="mailto:nishantmodimaster@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Tech: Kotlin, Jetpack Compose, Firebase, Hilt, FCM
-Impact:
-
-<300ms message delivery
-
-Offline-first sync + conflict resolution
-
-98% crash-free
-
-🔗 GitHub: github.com/nishantmodi92/chatconnect-android
-
-🔹 FoodDeliveryApp – Real-Time Ordering & Live GPS
-
-Tech: Kotlin, Compose, Firebase, Maps API, Retrofit
-
-Impact:
-
-300ms GPS updates
-
-30% faster startup
-
-Route optimization system
-
-🔗 GitHub: github.com/nishantmodi92/food-delivery-android
-
-🔹 GroceryEase – Smart Grocery Shopping Platform
-
-Tech: Kotlin, Firebase, Room, Hilt, Retrofit
-
-Impact:
-
-Multi-level caching (DB → Network → Firestore)
-
-20% higher user retention
-
-Modular clean architecture
-
-🔗 GitHub: github.com/nishantmodi92/GroceryEase
-
-📝 TECHNICAL PUBLICATIONS
-
-1. Offline-First Architecture in Android – A Practical Guide (2025)
-
-Explains offline sync, queues, retries, conflict resolution & distributed pipelines.
-
-2. Baseline Profiles → 30% Faster App Startup (2025)
-
-Full performance case study with Perfetto, Macrobenchmark & Play Store insights.
-
-🏆 ACHIEVEMENTS
-
-⭐ Employee of the Year 2023
-
-⭐ Client Appreciation (2025) – Zero production defects
-
-⭐ 30% faster deployments via full CI/CD automation
-
-⭐ 200+ GitHub Stars across Android projects
-
-⭐ Recognized architecture & system design owner
-
-📈 GITHUB STATS & ACTIVITY (Fully Working)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=nishantmodi92&theme=tokyonight&hide_border=false" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact&theme=tokyonight&hide_border=false" height="170"/> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantmodi92&theme=react-dark&hide_border=false" /> </p>
-
-🧰 DEV TOOLS I USE
-
-Android Studio | Firebase Suite | Postman | Figma
-
-Perfetto | Git | Fastlane | Jenkins
-
-Datadog | Charles Proxy | Docker | GitHub Actions
-
-🌍 OPEN TO WORK
-
-Senior Android Developer | Mobile Architect | Kotlin + Compose Specialist
-
-Onsite (Bangalore / Mumbai / Navi Mumbai / Pune)
-
-Remote (India / Global)
-
-🤝 CONNECT WITH ME
-
-📧 Email: nishantmodimaster@gmail.com
-
-💼 LinkedIn: linkedin.com/in/nishantmodi92
-
-🧩 Portfolio: nishantmodi92.github.io
-
-💻 GitHub: github.com/nishantmodi92
-
-👀 PROFILE VIEWS
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantmodi92&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
+---
 
