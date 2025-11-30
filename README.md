@@ -200,12 +200,7 @@ Secure Mobile Communication with AES + Token Rotation (2025)
 👨‍🏫 Mentored 5+ engineers → 40% team speed improvement
 
 
-
-<## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nishantmodi92&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact&theme=tokyonight&hide_border=true)
+📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nishantmodi92&theme=tokyonight&hide_border=true)
 
