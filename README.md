@@ -1,220 +1,228 @@
 👋 About Me
 
-I am Nishant Modi, a Senior Android Engineer & Mobile Systems Architect specializing in Real-Time Systems, Offline-First Engines, Event-Driven Architecture, and Secure Mobile–Cloud Pipelines.
+I am Nishant Modi, Senior Android Engineer (5+ YOE) building high-performance, scalable, offline-first, real-time mobile systems using Kotlin, Jetpack Compose, MVVM/MVI, Coroutines, Clean Architecture, Firebase, and multi-module architecture.
 
-I build mobile architectures that deliver:
+I specialize in:
 
-⚡ <300ms real-time latency
+⚡ Real-time communication systems (WebSockets, gRPC, Protobuf)
 
-🛡 PCI-DSS compliant secure payment systems
+⚡ Offline-first deterministic sync engines (diff-sync, conflict resolution)
 
-📉 40% ANR reduction
+⚡ Performance engineering (30–40% faster startup, 40% ANR reduction)
 
-🎯 99.8% crash-free reliability
+⚡ High-reliability pipelines (P99 <300ms, idempotent retry engines)
 
-🚀 30% faster cold startup
+⚡ Secure mobile flows (AES-256, TLS pinning, JWT rotation)
 
-🗂 ** scalable multi-module Kotlin architectures**
+⚡ Scalable Compose UI architectures (optimized recomposition, state isolation)
 
-I take end-to-end ownership across architecture → development → debugging → performance → release → monitoring.
+Driven by architecture leadership, deep debugging, profiling, and delivering enterprise-grade Android systems.
 
-🛠 Tech Stack (Badges)
+ TECH STACK 
 
-## 💻 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room%20DB-3E6FDE.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688.svg?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt%20DI-4CAF50.svg?style=for-the-badge&logo=android&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0ABF53.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-FFCA28.svg?style=for-the-badge&logo=google&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=googlemaps&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🎨 Frameworks & UI
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![Android UI](https://img.shields.io/badge/Android%20UI-3DDC84?logo=android&logoColor=white)
-![Material You](https://img.shields.io/badge/Material%20You-6200EE?logo=materialdesign&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005C84?logo=xml&logoColor=white)
 
-## 🏛 Architecture
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1A73E8?logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF9800?logoColor=white)
-![MVI](https://img.shields.io/badge/MVI-8BC34A?logoColor=white)
-![Multi Module](https://img.shields.io/badge/Multi--Module-009688?logoColor=white)
-![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-1565C0?logoColor=white)
+ METRICS & IMPACT
 
-## ☁️ Cloud & Backend
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFA611?logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-039BE5?logo=firebase&logoColor=black)
-![FCM](https://img.shields.io/badge/FCM-FF6D00?logo=firebase&logoColor=black)
-![REST](https://img.shields.io/badge/REST-02569B?logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-4CAF50?logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-3F51B5?logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)
+Performance & Stability
 
-## 🛠 Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?logo=jenkins&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=white)
-![Crashlytics](https://img.shields.io/badge/Crashlytics-4285F4?logo=firebase&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Perfetto](https://img.shields.io/badge/Perfetto-0091EA?logoColor=white)
-![Systrace](https://img.shields.io/badge/Systrace-37474F?logoColor=white)
+✔ 40% ANR reduction using Perfetto + trace-based debugging
 
-🚀 Projects
+✔ 30–40% faster cold start using Baseline Profiles
 
-1. ChatConnect — Real-Time Encrypted Messaging (25K+ Users)
+✔ 3.2× more reliable sync engine via multi-threaded state machines
 
-Tech Stack: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFA611?logo=firebase&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-4CAF50?logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-8E24AA?logo=android&logoColor=white)
-![Diff Sync](https://img.shields.io/badge/Diff--Sync-2962FF?logoColor=white)
-![AES-256](https://img.shields.io/badge/AES--256%20Encryption-000000?logo=lock&logoColor=white)
+✔ 40% network savings using delta-sync pipelines
 
+Scalability & Architecture
 
-🔥 Description
+✔ Led 40+ module migration → 60% tech debt reduction
 
-A fully real-time messaging system with <300ms latency using delta-sync, batching, and streaming pipelines.
+✔ Designed P99 <300ms real-time event pipeline
 
-📈 Impact & Metrics
+✔ Increased Room DB efficiency by 45%
 
-⚡ <300ms delivery latency using WebSockets + batching
+Security
 
-🔐 AES-256 + rotating tokens (secure E2E pipeline)
+✔ End-to-end AES-256 encryption
 
-📉 Reduced network load by 35% via diff-sync
+✔ JWT rotation + TLS pinning for secure flows
 
-🚀 99.5% crash-free sessions under load testing
+✔ Improved transactional reliability from 95% → 99.8%
 
-🧠 Architecture
 
-Multi-module
+PROJECTS
 
-Structured concurrency
+1️⃣ ChatConnect — Real-Time Encrypted Messaging
 
-Offline message queues
+Tech: Kotlin, Jetpack Compose, Firebase, WebSockets, gRPC, Protobuf, Hilt
 
-Distributed event-driven store
+Description:
+High-speed, multi-region messaging app with enterprise-grade encryption, offline-first architecture, and real-time synchronization.
 
-🔗 GitHub
+Key Features & Impact:
 
-https://github.com/nishantmodi92/securechatx-android
+Sub-300ms P99 real-time messaging
 
+AES-256 encrypted E2E communication
 
-2.  GroceryEase — Grocery App with Offline Cart Sync
+Delta-sync → 40% network savings
 
-Tech Stack: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![Room](https://img.shields.io/badge/Room-01579B?logo=sqlite&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-009688?logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![FCM](https://img.shields.io/badge/FCM-FF6D00?logo=firebase&logoColor=black)
-![Hilt](https://img.shields.io/badge/Hilt-8E24AA?logo=android&logoColor=white)
+Offline-first deterministic conflict resolution
 
+Predictive caching → 30% faster cold start
 
-🔥 Description
+GitHub: https://github.com/nishantmodi92/securechatx-android
 
-A grocery shopping and delivery app with delta-based offline cart sync and real-time order updates.
 
-📈 Impact & Metrics
 
-📉 40% less network usage via batching + compression
 
-🔄 Offline cart sync engine with conflict resolution
+2️⃣ GroceryEase — Grocery Shopping + Offline Cart Sync
 
-📱 Smooth UI — optimized recomposition
+Tech: Kotlin, Compose, Room, Retrofit, Firebase, Hilt
 
-🚀 99.6% crash-free stability
+Description:
+E-commerce grocery app with full offline-first cart, real-time tracking, and robust sync engine.
 
-🧠 Architecture
+Impact & Metrics:
 
-Offline-first with local cache
+Conflict-free offline cart sync
 
-State reconciliation on reconnect
+Diff-sync → 40% network savings
 
-Room + snapshot diff engine
+Background retry queue with auto-replay (near-zero failures)
 
-🔗 GitHub
+Category filters, cart, checkout, address management
 
-https://github.com/nishantmodi92/grocerly-android
+GitHub: https://github.com/nishantmodi92/grocerly-android
 
 
-3. FoodDeliveryApp — Real-Time GPS + Live Orders
 
-Tech Stack: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-34A853?logo=googlemaps&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-009688?logoColor=white)
 
+3️⃣ FoodDeliveryApp — Real-Time GPS + Order Tracking
 
-🔥 Description
+Tech: Kotlin, Jetpack Compose, Google Maps SDK, Firebase, Retrofit
 
-A Swiggy/Zomato-style food delivery app with real-time driver GPS and live tracking.
+Description:
+Full-scale food delivery app with live GPS tracking, in-app payments, and optimized map rendering.
 
-📈 Impact & Metrics
+Impact & Metrics:
 
-🛰 <300ms GPS update latency with interpolation
+Sub-second live GPS updates via state machines
 
-⏱ ETA prediction engine
+30% faster startup through Baseline Profiles
 
-🚀 30% faster startup with Baseline Profiles
+Reduced jank & optimized map rendering
 
-📉 20% smoother tracking UI
+Real-time order lifecycle handling
 
-🧠 Architecture
+GitHub: https://github.com/nishantmodi92/swifteats-android
 
-Event-driven updates
 
-Map-rendering optimization
 
-Multi-module with shared domain layer
+4️⃣ Healthify — Health & Fitness Tracking App
 
-🔗 GitHub
+Tech: Kotlin, Jetpack Compose, Room, Coroutines, Firebase Auth
 
-https://github.com/nishantmodi92/swifteats-android
+Description:
+A health & fitness app with personalized workout plans, calorie tracking, progress analytics.
 
+Impact:
 
-📝 Publications
+Achieved 25–30% better local DB performance
 
-(Premium, Microsoft/PayPal-style)
+Optimized analytics rendering with Compose
 
-Distributed Offline-First Architecture in Android (2025)
+Offline-first progress sync
 
-30% Faster Startup with Baseline Profiles (2025)
+GitHub: https://github.com/nishantmodi92/fitpulse-android
 
-Secure Mobile Communication with AES + Token Rotation (2025)
 
 
-⭐ Achievements
+5️⃣ EduPlay — E-Learning Platform
 
-🏆 Employee of the Year — EXL Service
+Tech: Kotlin, Compose, Firebase, Hilt, Paging 3
 
-🚀 Delivered real-time systems with measurable business impact
+Description:
+Modern e-learning app with video courses, quizzes, progress tracking, dark mode, and offline downloads.
 
-🔍 Led architecture, SLO/SLI guidelines, and production debugging
+Impact:
 
-👨‍🏫 Mentored 5+ engineers → 40% team speed improvement
+35% faster content load using Pagination & caching
 
+Reduced Firebase reads by 40% using snapshot caching
 
-📊 GitHub Stats
+Smooth player UI with Compose animations
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nishantmodi92&theme=tokyonight&hide_border=true)
+GitHub: https://github.com/nishantmodi92/learnfinity-android
 
-![Profile Views](https://komarev.com/ghpvc/?username=nishantmodi92&label=Profile%20Views&color=blueviolet&style=flat)
 
 
+6️⃣ FinMate — Secure Personal Finance Manager
 
+Tech: Kotlin, Compose, Room, Firebase, AES-256, Charts**
 
-📬 Connect With Me
+Description:
+Secure personal finance app with categories, smart insights, encrypted transactions, and analytics.
 
-LinkedIn: linkedin.com/in/nishantmodi92
+Impact:
 
-Portfolio: nishantmodi92.github.io
+AES-256 encrypted financial data
 
-Email: nishantmodimaster@gmail.com
+Optimized chart rendering (low CPU usage)
 
+30–35% faster dashboard load
 
+GitHub: https://github.com/nishantmodi92/finvault-android
+
+
+
+
+ PUBLICATIONS (2025)
+
+Offline-First Architecture — Delta Sync & Conflict Resolution
+
+Improving Android Startup with Baseline Profiles
+
+Secure Mobile Communication — AES + JWT Rotation + TLS Pinning
+
+Ultra-Reliable Real-Time Mobile Pipelines — P99 Latency Engineering
+
+
+
+
+ACHIEVEMENTS & AWARDS
+
+🏆 Employee of the Year — Architecture & Performance Engineering
+
+🏆 Led enterprise-wide architecture modernization (40+ modules)
+
+🏆 Built reusable components adopted across teams
+
+🏆 Recognized for debugging, profiling, performance engineering excellence
+
+
+
+
+ CONNECT ME
+
+📧 Email: nishantmodimaster@gmail.com
+
+
+🔗 LinkedIn: linkedin.com/in/nishantmodi92
+
+💻 GitHub: github.com/nishantmodi92
+
+🌐 Portfolio: nishantmodi92.github.io
