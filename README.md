@@ -1,126 +1,262 @@
-🔥 Nishant Modi — Senior Android Engineer
+# 👋 Nishant Modi
 
-Building high-performance, scalable, offline-first Android systems using Kotlin, Jetpack Compose, and Clean Architecture. Expert in real-time communication, distributed sync engines, and performance engineering.
+**Senior Android Engineer | AI‑Powered Mobile Systems | Offline‑First & Real‑Time Architecture**
 
-🚀 About Me
+📍 Noida, India | 🌍 Open to Remote / Relocation
+🔗 Portfolio: [https://nishantmodi92.github.io](https://nishantmodi92.github.io)
+🔗 LinkedIn: [https://linkedin.com/in/nishantmodi92](https://linkedin.com/in/nishantmodi92)
+📧 Email: [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)
 
-Senior Android Engineer with 5+ years of experience architecting production-grade mobile applications with:
+---
 
-Real-time Communication Pipelines: WebSockets, Protobuf, gRPC
+## 🚀 About Me
 
-Offline-First Engines: Delta sync, conflict-resolution, deterministic pipelines
+Senior Android Engineer with **5+ years of experience** building **mission‑critical, AI‑enabled Android systems** used by **hundreds of thousands of users**. I specialize in **Jetpack Compose**, **offline‑first & real‑time architectures**, and **production‑grade mobile AI integration**.
 
-Performance Engineering:
+I’m known for delivering apps that are:
 
-30–40% faster cold start
+* ⚡ **30–45% faster** (startup & runtime performance)
+* 📉 **40%+ lower network usage** via deterministic sync
+* 🛡 **99.8%+ crash‑free stability** in production
+* 🤖 Powered by **practical AI** (no hype, measurable impact)
 
-40% ANR reduction
+My work aligns strongly with **FAANG‑level expectations** in system design, scalability, performance engineering, and reliability.
 
-3.2× reliability improvements
+---
 
-Distributed Architecture: Modularization, feature-scoped builds, scalable domain layers
+## 🧠 Tech Stack (FAANG‑Aligned)
 
-Security: AES-256 client-side encryption, secure token flows, isolated persistence
+### 📱 Android & Mobile
 
-Passionate about building systems that are fast, stable, secure, and production-ready.
+Kotlin · Java · Android SDK · Jetpack Compose · MVVM · MVI · Clean Architecture · Modularization (40+ modules) · Coroutines · Flow · Material You
+
+### 🤖 Applied AI on Mobile
+
+On‑device ML (ML Kit) · AI Smart Replies · Text Summarization · Semantic Search (Embeddings) · ETA Prediction · Behavior‑based Recommendations · Anomaly & Fraud Detection · Signal‑Driven Heuristics
+
+### 🔄 Real‑Time & Offline Systems
+
+Offline‑First Architecture · Delta Sync · Conflict‑Free Merge · Deterministic State Machines · Background Sync Queues · WebSockets · gRPC · Protobuf
+
+### ☁️ Backend & DevOps
+
+Firebase (Auth, Firestore, FCM, Storage) · REST APIs · CI/CD · GitHub Actions · Fastlane · Crashlytics
+
+### 🔐 Performance & Security
+
+Baseline Profiles · Startup Optimization · Jank/ANR Reduction · Room Optimization · AES‑256 Encryption · JWT Rotation · TLS Pinning
+
+---
+
+## 🧩 Featured Projects (AI + Systems)
+
+Below are **six fully detailed, FAANG-grade projects**, each written to satisfy **ATS screening, recruiter scanning, and senior engineering interviews**.
+
+---
+
+## 💬 ChatConnect v2.0 — AI-Powered Encrypted Messaging Platform
+
+**Role:** Lead Android Engineer
+**Scale:** 100K+ users | 5M+ messages/day
+
+### 📌 Problem
+
+Traditional chat apps fail under scale due to poor offline handling, weak security, and high latency in real-time delivery.
+
+### 🧠 Solution
+
+Designed a **deterministic, offline-first, end-to-end encrypted messaging system** with AI-powered conversational assistance.
+
+### 🤖 AI Capabilities
+
+* Smart replies (on-device ML)
+* Chat summarization for long threads
+* Toxicity & spam detection
+* Voice-to-text transcription
+
+### 🏗 Architecture
+
+* Real-time pipelines using **WebSockets + gRPC + Protobuf**
+* Deterministic message ordering & conflict-free merge
+* Encrypted local persistence with secure key lifecycle
+
+### 📈 Impact & Metrics
+
+* <300ms P99 message latency
+* 40% reduction in network usage
+* 99%+ crash-free sessions
+* Improved reply speed & engagement
+
+### 🛠 Tech Stack
+
+Kotlin · Jetpack Compose · Firebase · WebSockets · gRPC · Protobuf · Hilt · ML Kit
+
+🔗 GitHub: https://github.com/nishantmodi92/securechatx-android
+
+---
+
+## 🍔 FoodDeliveryApp — AI-Driven Real-Time Delivery System
+
+**Role:** Lead Android Engineer
+
+### 📌 Problem
+
+Inaccurate ETAs, route inefficiencies, and fraud reduce user trust during peak traffic hours.
+
+### 🧠 Solution
+
+Built an **AI-assisted delivery platform** with real-time tracking, ETA prediction, and anomaly detection.
+
+### 🤖 AI Capabilities
+
+* ETA prediction using historical + live signals
+* Dynamic route optimization
+* Personalized restaurant & dish recommendations
+* Fraud detection (fake orders, GPS spoofing)
+
+### 📈 Impact & Metrics
+
+* 30% faster cold start
+* Higher delivery predictability
+* Reduced order cancellation rate
+
+### 🛠 Tech Stack
+
+Kotlin · Jetpack Compose · Google Maps SDK · Firebase · Retrofit
+
+🔗 GitHub: https://github.com/nishantmodi92/swifteats-android
+
+---
+
+## 🛒 GroceryEase — Offline-First Intelligent Shopping App
+
+**Role:** Senior Android Engineer
+
+### 📌 Problem
+
+Users in low-network regions lose cart data and face sync conflicts.
+
+### 🧠 Solution
+
+Designed a **conflict-free offline cart engine** with deterministic state handling.
+
+### 🤖 AI Capabilities
+
+* Smart reorder suggestions
+* Spend prediction & budget alerts
+
+### 📈 Impact & Metrics
+
+* Zero cart-loss scenarios
+* Reliable performance on low-end devices
+* 40% network efficiency improvement
+
+### 🛠 Tech Stack
+
+Kotlin · Jetpack Compose · Room · Retrofit · Hilt
+
+🔗 GitHub: https://github.com/nishantmodi92/grocerly-android
+
+---
+
+## 💰 FinMate — AI-Assisted Personal Finance Manager
+
+### 📌 Problem
+
+Manual expense tracking is error-prone and lacks insights.
+
+### 🤖 AI Capabilities
+
+* Auto expense categorization
+* Monthly spend prediction
+* Anomaly detection for unusual transactions
+
+### 📈 Impact
+
+* Improved financial awareness
+* Reduced manual user input
+
+### 🛠 Tech Stack
+
+Kotlin · MVVM · Room · Charts · Firebase
+
+🔗 GitHub: https://github.com/nishantmodi92/finvault-android
+
+---
+
+## 🏃 Healthify — Smart Fitness & Wellness Tracker
+
+### 📌 Problem
+
+Users struggle with consistency and lack actionable fitness insights.
+
+### 🤖 AI Capabilities
+
+* Activity trend analysis
+* Habit detection
+* Predictive health nudges
+
+### 📈 Impact
+
+* Increased user retention
+* Personalized fitness guidance
+
+### 🛠 Tech Stack
+
+Kotlin · Jetpack Compose · Sensors API · Firebase
+
+🔗 GitHub: https://github.com/nishantmodi92/fitpulse-android
+
+---
+
+## 🎓 EduPlay — AI-Personalized Learning Platform
+
+### 📌 Problem
+
+One-size-fits-all learning leads to low engagement.
+
+### 🤖 AI Capabilities
+
+* Adaptive learning paths
+* Content recommendation engine
+* Engagement & progress analytics
+
+### 📈 Impact
+
+* Improved learner engagement
+* Higher course completion rates
+
+### 🛠 Tech Stack
+
+Kotlin · Jetpack Compose · Firebase · Analytics
+
+🔗 GitHub: https://github.com/nishantmodi92/learnfinity-android
+
+---
+
+## 📝 Publications & Thought Leadership
+
+* **Offline‑First Mobile Architecture** — Delta Sync & Deterministic Conflict Resolution
+* **Android Performance Engineering** — Startup Optimization with Baseline Profiles
+* **Secure Mobile Systems** — Encryption, Token Rotation & Network Hardening
+
+---
 
 
-## 🛠️ Tech Stack
+## 🏆 Achievements
 
-**Languages:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+* 🥇 Employee of the Year — Architecture & Performance Excellence
+* 📈 25% faster team delivery via reusable components
+* 👥 Mentored 5+ engineers
 
-**Frameworks & Architecture:**  
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00)
-![MVI](https://img.shields.io/badge/MVI-FF6F00)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50)
+---
 
-**Tools & Infrastructure:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?logo=firebase&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4)
-![Hilt](https://img.shields.io/badge/Hilt-5C2D91?logo=google)
-![Retrofit](https://img.shields.io/badge/Retrofit-009688)
-![Coroutines](https://img.shields.io/badge/Coroutines-FF4081)
-![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?logo=googlemaps&logoColor=white)
+## 🤝 Connect With Me
 
+If you’re a **recruiter, hiring manager, or engineering leader**, feel free to reach out.
 
+📧 Email: [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)
+🔗 LinkedIn: [https://linkedin.com/in/nishantmodi92](https://linkedin.com/in/nishantmodi92)
+🔗 Portfolio: [https://nishantmodi92.github.io](https://nishantmodi92.github.io)
 
- Featured Projects 
-
-1. ChatConnect — Real-Time Chat App
-
-🔗 GitHub: https://github.com/nishantmodi92/ChatConnect
-
-Real-time chat system with WebSockets + Firebase + Protobuf
-
-End-to-end encrypted messaging
-
-Offline-first deterministic sync engine
-
-Achieved 3.2× reliability improvement
-
-Clean Architecture + modularized codebase
-
-2. GroceryEase — Grocery Delivery App
-
-🔗 GitHub: https://github.com/nishantmodi92/GroceryEase
-
-Live order tracking, Google Maps API
-
-Firestore offline persistence + conflict resolution
-
-Cart sync system with Room + delta updates
-
-Push notifications with FCM
-
-30% faster cold start vs previous implementation
-
-3. FoodDeliveryApp — Full-Stack Android App
-
-🔗 GitHub: https://github.com/nishantmodi92/FoodDeliveryApp
-
-In-app payments, Maps, order tracking
-
-Clean Architecture + multi-module
-
-98% crash-free sessions
-
-Material You UI + animations
-
-Scalable real-time data flow
-
-
-
-📝 Publications
-
-Offline-First Sync Engine in Mobile Apps – 2025
-
-Reliable Real-Time Messaging Architecture – 2025
-
-
-
-🏆 Achievements
-
-Improved reliability by 3.2× across multiple apps
-
-Reduced ANRs by 40% using performance profiling
-
-Optimized cold start by 30–40% via modularization
-
-Built 6+ production-grade Android applications end-to-end
-
-
-
-
-🌐 Connect With Me
-
-LinkedIn: https://linkedin.com/in/nishantmodi92
-
-Portfolio: https://nishantmodi92.github.io
-
-Email: nishantmodi9233@gmail.com
+⭐ *Open to Senior Android / Mobile / AI‑Enabled Engineering roles at top‑tier companies*
