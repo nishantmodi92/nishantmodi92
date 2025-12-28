@@ -1,262 +1,161 @@
-# 👋 Nishant Modi
+# Nishant Modi 👋
 
-**Senior Android Engineer | AI‑Powered Mobile Systems | Offline‑First & Real‑Time Architecture**
+## Senior Android / Mobile Software Engineer | Scalable Systems & Platform Engineering
 
-📍 Noida, India | 🌍 Open to Remote / Relocation
-🔗 Portfolio: [https://nishantmodi92.github.io](https://nishantmodi92.github.io)
-🔗 LinkedIn: [https://linkedin.com/in/nishantmodi92](https://linkedin.com/in/nishantmodi92)
-📧 Email: [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)
-
----
-
-## 🚀 About Me
-
-Senior Android Engineer with **5+ years of experience** building **mission‑critical, AI‑enabled Android systems** used by **hundreds of thousands of users**. I specialize in **Jetpack Compose**, **offline‑first & real‑time architectures**, and **production‑grade mobile AI integration**.
-
-I’m known for delivering apps that are:
-
-* ⚡ **30–45% faster** (startup & runtime performance)
-* 📉 **40%+ lower network usage** via deterministic sync
-* 🛡 **99.8%+ crash‑free stability** in production
-* 🤖 Powered by **practical AI** (no hype, measurable impact)
-
-My work aligns strongly with **FAANG‑level expectations** in system design, scalability, performance engineering, and reliability.
+🚀 **5+ years building production-grade Android systems used by 250K+ MAU**
+⚙️ Offline-First • Real-Time Systems • Performance Engineering • System Design
+🌍 Open to Remote / Relocation | India
 
 ---
 
-## 🧠 Tech Stack (FAANG‑Aligned)
+## 👨‍💻 About Me
 
-### 📱 Android & Mobile
+I am a **Senior Android / Mobile Software Engineer** specializing in **scalable, performance-critical mobile systems**. I work at the intersection of **mobile architecture, system design, and real-world reliability**, building Android platforms that operate under strict latency, scalability, and offline constraints.
 
-Kotlin · Java · Android SDK · Jetpack Compose · MVVM · MVI · Clean Architecture · Modularization (40+ modules) · Coroutines · Flow · Material You
+I have led and owned Android architectures end-to-end — from **low-level performance optimization** to **high-level system design decisions** — for applications handling **millions of real-time events daily**. My work focuses on **offline-first design, deterministic sync, modular architectures, and AI-assisted mobile features with production guardrails**.
 
-### 🤖 Applied AI on Mobile
-
-On‑device ML (ML Kit) · AI Smart Replies · Text Summarization · Semantic Search (Embeddings) · ETA Prediction · Behavior‑based Recommendations · Anomaly & Fraud Detection · Signal‑Driven Heuristics
-
-### 🔄 Real‑Time & Offline Systems
-
-Offline‑First Architecture · Delta Sync · Conflict‑Free Merge · Deterministic State Machines · Background Sync Queues · WebSockets · gRPC · Protobuf
-
-### ☁️ Backend & DevOps
-
-Firebase (Auth, Firestore, FCM, Storage) · REST APIs · CI/CD · GitHub Actions · Fastlane · Crashlytics
-
-### 🔐 Performance & Security
-
-Baseline Profiles · Startup Optimization · Jank/ANR Reduction · Room Optimization · AES‑256 Encryption · JWT Rotation · TLS Pinning
+I operate at a **Senior+ / Staff-adjacent level**, frequently acting as an architectural decision-maker, performance escalation point, and mentor for other engineers.
 
 ---
 
-## 🧩 Featured Projects (AI + Systems)
+## 🧠 Tech Stack
 
-Below are **six fully detailed, FAANG-grade projects**, each written to satisfy **ATS screening, recruiter scanning, and senior engineering interviews**.
+### Mobile & Android
 
----
+* Kotlin, Java, Android SDK
+* Jetpack Compose, XML, Material You
+* MVVM, MVI, Clean Architecture
+* Modularization (40+ modules)
+* Coroutines, Flow, WorkManager
 
-## 💬 ChatConnect v2.0 — AI-Powered Encrypted Messaging Platform
+### Systems & Architecture
 
-**Role:** Lead Android Engineer
-**Scale:** 100K+ users | 5M+ messages/day
+* Offline-First Architecture
+* Real-Time Systems (WebSockets, gRPC)
+* Deterministic Sync & Conflict Resolution
+* Data Modeling & API Contract Design
 
-### 📌 Problem
+### Performance & Quality
 
-Traditional chat apps fail under scale due to poor offline handling, weak security, and high latency in real-time delivery.
+* App Startup Optimization
+* ANR & Jank Reduction
+* Memory & Threading Optimization
+* Profiling, Tracing, Crashlytics
 
-### 🧠 Solution
+### Backend & Cloud
 
-Designed a **deterministic, offline-first, end-to-end encrypted messaging system** with AI-powered conversational assistance.
+* Firebase (Auth, Firestore, RTDB, FCM)
+* REST APIs, Retrofit, OkHttp
+* Cloud Functions
 
-### 🤖 AI Capabilities
+### AI-Assisted Mobile Features
 
-* Smart replies (on-device ML)
-* Chat summarization for long threads
-* Toxicity & spam detection
-* Voice-to-text transcription
-
-### 🏗 Architecture
-
-* Real-time pipelines using **WebSockets + gRPC + Protobuf**
-* Deterministic message ordering & conflict-free merge
-* Encrypted local persistence with secure key lifecycle
-
-### 📈 Impact & Metrics
-
-* <300ms P99 message latency
-* 40% reduction in network usage
-* 99%+ crash-free sessions
-* Improved reply speed & engagement
-
-### 🛠 Tech Stack
-
-Kotlin · Jetpack Compose · Firebase · WebSockets · gRPC · Protobuf · Hilt · ML Kit
-
-🔗 GitHub: https://github.com/nishantmodi92/securechatx-android
+* Smart Replies & Summarization
+* Predictive ETA & Recommendations
+* LLM API Integration with Guardrails
 
 ---
 
-## 🍔 FoodDeliveryApp — AI-Driven Real-Time Delivery System
+## 🚀 Featured Projects
 
-**Role:** Lead Android Engineer
+### 🔹 ChatConnect v2.0 — Distributed Real-Time Messaging System
 
-### 📌 Problem
+**Description**
+A production-grade, end-to-end encrypted, offline-capable real-time messaging platform designed for high throughput and low latency communication.
 
-Inaccurate ETAs, route inefficiencies, and fraud reduce user trust during peak traffic hours.
+**Impact**
 
-### 🧠 Solution
+* Supports **100K+ users** and **5M+ messages/day**
+* Achieved **<300ms P99 latency** with 99%+ reliability
 
-Built an **AI-assisted delivery platform** with real-time tracking, ETA prediction, and anomaly detection.
+**Key Engineering Highlights**
 
-### 🤖 AI Capabilities
+* Deterministic offline-first sync engine
+* Protobuf-based messaging (40% payload reduction)
+* Efficient pagination and in-memory caching
+* AI-powered smart replies, summarization & moderation
 
-* ETA prediction using historical + live signals
-* Dynamic route optimization
-* Personalized restaurant & dish recommendations
-* Fraud detection (fake orders, GPS spoofing)
+**Tech Stack**
+Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, WebSockets, Protobuf, Firebase
 
-### 📈 Impact & Metrics
+**Metrics**
 
-* 30% faster cold start
-* Higher delivery predictability
-* Reduced order cancellation rate
+* 40% lower network usage
+* 30% faster message load times
 
-### 🛠 Tech Stack
-
-Kotlin · Jetpack Compose · Google Maps SDK · Firebase · Retrofit
-
-🔗 GitHub: https://github.com/nishantmodi92/swifteats-android
+🔗 **GitHub**: [https://github.com/nishantmodi92/securechatx-android](https://github.com/nishantmodi92/securechatx-android)
 
 ---
 
-## 🛒 GroceryEase — Offline-First Intelligent Shopping App
+### 🔹 FoodDeliveryApp — Intelligent Real-Time Delivery Platform
 
-**Role:** Senior Android Engineer
+**Description**
+A full-scale food delivery Android platform with real-time order tracking, predictive ETAs, and personalized recommendations.
 
-### 📌 Problem
+**Impact**
 
-Users in low-network regions lose cart data and face sync conflicts.
+* Improved delivery accuracy and user retention
+* Reduced cold start time by 30%
 
-### 🧠 Solution
+**Key Engineering Highlights**
 
-Designed a **conflict-free offline cart engine** with deterministic state handling.
+* Real-time order & rider tracking
+* Predictive ETA and route optimization
+* Performance-tuned Google Maps rendering
 
-### 🤖 AI Capabilities
+**Tech Stack**
+Kotlin, Jetpack Compose, Clean Architecture, Maps SDK, Firebase, Retrofit
 
+**Metrics**
+
+* 98%+ crash-free sessions
+
+🔗 **GitHub**: [https://github.com/nishantmodi92/swifteats-android](https://github.com/nishantmodi92/swifteats-android)
+
+---
+
+### 🔹 GroceryEase — Offline-First Shopping Platform
+
+**Description**
+An intelligent grocery shopping app designed for unstable networks with conflict-free offline cart management.
+
+**Impact**
+
+* Improved repeat purchases and retention
+* Reduced sync conflicts by 70%
+
+**Key Engineering Highlights**
+
+* Offline cart with background reconciliation
 * Smart reorder suggestions
-* Spend prediction & budget alerts
+* Spend prediction alerts
 
-### 📈 Impact & Metrics
+**Tech Stack**
+Kotlin, Room, Firebase, WorkManager, Clean Architecture
 
-* Zero cart-loss scenarios
-* Reliable performance on low-end devices
-* 40% network efficiency improvement
-
-### 🛠 Tech Stack
-
-Kotlin · Jetpack Compose · Room · Retrofit · Hilt
-
-🔗 GitHub: https://github.com/nishantmodi92/grocerly-android
-
----
-
-## 💰 FinMate — AI-Assisted Personal Finance Manager
-
-### 📌 Problem
-
-Manual expense tracking is error-prone and lacks insights.
-
-### 🤖 AI Capabilities
-
-* Auto expense categorization
-* Monthly spend prediction
-* Anomaly detection for unusual transactions
-
-### 📈 Impact
-
-* Improved financial awareness
-* Reduced manual user input
-
-### 🛠 Tech Stack
-
-Kotlin · MVVM · Room · Charts · Firebase
-
-🔗 GitHub: https://github.com/nishantmodi92/finvault-android
-
----
-
-## 🏃 Healthify — Smart Fitness & Wellness Tracker
-
-### 📌 Problem
-
-Users struggle with consistency and lack actionable fitness insights.
-
-### 🤖 AI Capabilities
-
-* Activity trend analysis
-* Habit detection
-* Predictive health nudges
-
-### 📈 Impact
-
-* Increased user retention
-* Personalized fitness guidance
-
-### 🛠 Tech Stack
-
-Kotlin · Jetpack Compose · Sensors API · Firebase
-
-🔗 GitHub: https://github.com/nishantmodi92/fitpulse-android
-
----
-
-## 🎓 EduPlay — AI-Personalized Learning Platform
-
-### 📌 Problem
-
-One-size-fits-all learning leads to low engagement.
-
-### 🤖 AI Capabilities
-
-* Adaptive learning paths
-* Content recommendation engine
-* Engagement & progress analytics
-
-### 📈 Impact
-
-* Improved learner engagement
-* Higher course completion rates
-
-### 🛠 Tech Stack
-
-Kotlin · Jetpack Compose · Firebase · Analytics
-
-🔗 GitHub: https://github.com/nishantmodi92/learnfinity-android
-
----
-
-## 📝 Publications & Thought Leadership
-
-* **Offline‑First Mobile Architecture** — Delta Sync & Deterministic Conflict Resolution
-* **Android Performance Engineering** — Startup Optimization with Baseline Profiles
-* **Secure Mobile Systems** — Encryption, Token Rotation & Network Hardening
-
----
-
-
-## 🏆 Achievements
-
-* 🥇 Employee of the Year — Architecture & Performance Excellence
-* 📈 25% faster team delivery via reusable components
-* 👥 Mentored 5+ engineers
+🔗 **GitHub**: [https://github.com/nishantmodi92/grocerly-android](https://github.com/nishantmodi92/grocerly-android)
 
 ---
 
 ## 🤝 Connect With Me
 
-If you’re a **recruiter, hiring manager, or engineering leader**, feel free to reach out.
+* 🌐 Portfolio: [https://nishantmodi92.github.io](https://nishantmodi92.github.io)
+* 💼 LinkedIn: [https://linkedin.com/in/nishantmodi92](https://linkedin.com/in/nishantmodi92)
+* 🧑‍💻 GitHub: [https://github.com/nishantmodi92](https://github.com/nishantmodi92)
+* 📧 Email: [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)
 
-📧 Email: [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)
-🔗 LinkedIn: [https://linkedin.com/in/nishantmodi92](https://linkedin.com/in/nishantmodi92)
-🔗 Portfolio: [https://nishantmodi92.github.io](https://nishantmodi92.github.io)
+---
 
-⭐ *Open to Senior Android / Mobile / AI‑Enabled Engineering roles at top‑tier companies*
+## 📊 GitHub Activity Snapshot
+
+* GitHub Stats (overall contributions and consistency)
+* Contribution Streak (long-term activity signal)
+* Language Usage (primary production languages)
+
+These elements are kept **intentionally clean and minimal** to align with how **FAANG and Tier-1 recruiters** evaluate engineering profiles — focusing on **consistency, ownership, and depth**, not visual noise.
+
+
+
+---
+
+⭐ This GitHub profile is intentionally designed to signal **Senior / Staff-adjacent engineering maturity**, system design depth, and production ownership — the key factors recruiters look for when shortlisting top-tier candidates.
