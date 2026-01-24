@@ -1,54 +1,63 @@
-# Nishant Modi 👋
+# 👋 Nishant Modi
 
-## Senior Android / Mobile Software Engineer | Scalable Systems & Platform Engineering
+**Senior Android / Mobile Platform Engineer**
+*Distributed Mobile Systems • Offline-First Architecture • High-Scale Performance*
 
-🚀 **5+ years building production-grade Android systems used by 250K+ MAU**
-⚙️ Offline-First • Real-Time Systems • Performance Engineering • System Design
-🌍 Open to Remote / Relocation | India
-
----
-
-## 👨‍💻 About Me
-
-I am a **Senior Android / Mobile Software Engineer** specializing in **scalable, performance-critical mobile systems**. I work at the intersection of **mobile architecture, system design, and real-world reliability**, building Android platforms that operate under strict latency, scalability, and offline constraints.
-
-I have led and owned Android architectures end-to-end — from **low-level performance optimization** to **high-level system design decisions** — for applications handling **millions of real-time events daily**. My work focuses on **offline-first design, deterministic sync, modular architectures, and AI-assisted mobile features with production guardrails**.
-
-I operate at a **Senior+ / Staff-adjacent level**, frequently acting as an architectural decision-maker, performance escalation point, and mentor for other engineers.
+🚀 **8+ years** building production-grade Android platforms used by **250K+ MAU**
+⚙️ Offline‑First • Real‑Time Systems • Performance & Reliability • System Design
+🌍 Open to **Remote / Relocation** | India
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 About Me
 
-### Mobile & Android
+I am a **Senior Android Platform Engineer** specializing in **scalable, performance‑critical mobile systems** operating under real‑world constraints such as unreliable networks, strict latency budgets, and large‑scale data synchronization.
 
-* Kotlin, Java, Android SDK
+I have **owned Android platforms end‑to‑end** — from **low‑level performance optimization** and **concurrency tuning** to **high‑level architectural design** and **production rollout** — for applications processing **millions of real‑time events daily**.
+
+My core focus areas include:
+
+* Offline‑first system design with deterministic conflict resolution
+* Real‑time data synchronization (REST vs WebSockets vs gRPC)
+* Modular Android architectures (40+ modules)
+* Performance engineering (cold start, ANRs, memory, threading)
+* AI‑assisted mobile features with production guardrails
+
+I operate at a **Senior / Staff‑adjacent level**, frequently acting as a **platform owner**, architectural decision‑maker, escalation point for performance issues, and mentor for other engineers.
+
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile & Android
+
+* Kotlin (Primary), Java, Android SDK
 * Jetpack Compose, XML, Material You
 * MVVM, MVI, Clean Architecture
 * Modularization (40+ modules)
 * Coroutines, Flow, WorkManager
 
-### Systems & Architecture
+### 🧩 Systems & Architecture
 
-* Offline-First Architecture
-* Real-Time Systems (WebSockets, gRPC)
+* Offline‑First Architecture
+* Real‑Time Systems (WebSockets, gRPC)
 * Deterministic Sync & Conflict Resolution
 * Data Modeling & API Contract Design
 
-### Performance & Quality
+### ⚡ Performance & Quality
 
 * App Startup Optimization
 * ANR & Jank Reduction
 * Memory & Threading Optimization
 * Profiling, Tracing, Crashlytics
 
-### Backend & Cloud
+### ☁️ Backend & Cloud (Mobile‑Focused)
 
 * Firebase (Auth, Firestore, RTDB, FCM)
 * REST APIs, Retrofit, OkHttp
 * Cloud Functions
 
-### AI-Assisted Mobile Features
+### 🤖 AI‑Assisted Mobile Features
 
 * Smart Replies & Summarization
 * Predictive ETA & Recommendations
@@ -58,22 +67,22 @@ I operate at a **Senior+ / Staff-adjacent level**, frequently acting as an archi
 
 ## 🚀 Featured Projects
 
-### 🔹 ChatConnect v2.0 — Distributed Real-Time Messaging System
+### 🔹 ChatConnect v2.0 — Distributed Real‑Time Messaging System
 
 **Description**
-A production-grade, end-to-end encrypted, offline-capable real-time messaging platform designed for high throughput and low latency communication.
+Production‑grade, end‑to‑end encrypted, offline‑capable real‑time messaging platform designed for **high throughput** and **low latency** communication.
 
 **Impact**
 
 * Supports **100K+ users** and **5M+ messages/day**
-* Achieved **<300ms P99 latency** with 99%+ reliability
+* Achieved **<300ms P99 latency** with **99%+ reliability**
 
 **Key Engineering Highlights**
 
-* Deterministic offline-first sync engine
-* Protobuf-based messaging (40% payload reduction)
-* Efficient pagination and in-memory caching
-* AI-powered smart replies, summarization & moderation
+* Deterministic offline‑first sync engine
+* Protobuf‑based messaging (**40% payload reduction**)
+* Efficient pagination & in‑memory caching
+* AI‑powered smart replies, summarization & moderation
 
 **Tech Stack**
 Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, WebSockets, Protobuf, Firebase
@@ -83,46 +92,46 @@ Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, WebSockets, Protobuf, Firebase
 * 40% lower network usage
 * 30% faster message load times
 
-🔗 **GitHub**: [https://github.com/nishantmodi92/securechatx-android](https://github.com/nishantmodi92/securechatx-android)
+🔗 GitHub: [https://github.com/nishantmodi92/securechatx-android](https://github.com/nishantmodi92/securechatx-android)
 
 ---
 
-### 🔹 FoodDeliveryApp — Intelligent Real-Time Delivery Platform
+### 🔹 FoodDeliveryApp — Intelligent Real‑Time Delivery Platform
 
 **Description**
-A full-scale food delivery Android platform with real-time order tracking, predictive ETAs, and personalized recommendations.
+Full‑scale food delivery Android platform with **real‑time order tracking**, **predictive ETAs**, and **personalized recommendations**.
 
 **Impact**
 
-* Improved delivery accuracy and user retention
-* Reduced cold start time by 30%
+* Improved delivery accuracy & user retention
+* Reduced cold‑start time by **30%**
 
 **Key Engineering Highlights**
 
-* Real-time order & rider tracking
-* Predictive ETA and route optimization
-* Performance-tuned Google Maps rendering
+* Real‑time order & rider tracking
+* Predictive ETA & route optimization
+* Performance‑tuned Google Maps rendering
 
 **Tech Stack**
 Kotlin, Jetpack Compose, Clean Architecture, Maps SDK, Firebase, Retrofit
 
 **Metrics**
 
-* 98%+ crash-free sessions
+* 98%+ crash‑free sessions
 
-🔗 **GitHub**: [https://github.com/nishantmodi92/swifteats-android](https://github.com/nishantmodi92/swifteats-android)
+🔗 GitHub: [https://github.com/nishantmodi92/swifteats-android](https://github.com/nishantmodi92/swifteats-android)
 
 ---
 
-### 🔹 GroceryEase — Offline-First Shopping Platform
+### 🔹 GroceryEase — Offline‑First Shopping Platform
 
 **Description**
-An intelligent grocery shopping app designed for unstable networks with conflict-free offline cart management.
+Offline‑first grocery shopping app designed for **unstable networks** with conflict‑free cart management.
 
 **Impact**
 
-* Improved repeat purchases and retention
-* Reduced sync conflicts by 70%
+* Improved repeat purchases & retention
+* Reduced sync conflicts by **70%**
 
 **Key Engineering Highlights**
 
@@ -133,7 +142,7 @@ An intelligent grocery shopping app designed for unstable networks with conflict
 **Tech Stack**
 Kotlin, Room, Firebase, WorkManager, Clean Architecture
 
-🔗 **GitHub**: [https://github.com/nishantmodi92/grocerly-android](https://github.com/nishantmodi92/grocerly-android)
+🔗 GitHub: [https://github.com/nishantmodi92/grocerly-android](https://github.com/nishantmodi92/grocerly-android)
 
 ---
 
@@ -141,21 +150,9 @@ Kotlin, Room, Firebase, WorkManager, Clean Architecture
 
 * 🌐 Portfolio: [https://nishantmodi92.github.io](https://nishantmodi92.github.io)
 * 💼 LinkedIn: [https://linkedin.com/in/nishantmodi92](https://linkedin.com/in/nishantmodi92)
-* 🧑‍💻 GitHub: [https://github.com/nishantmodi92](https://github.com/nishantmodi92)
+* 💻 GitHub: [https://github.com/nishantmodi92](https://github.com/nishantmodi92)
 * 📧 Email: [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)
 
 ---
 
-## 📊 GitHub Activity Snapshot
-
-* GitHub Stats (overall contributions and consistency)
-* Contribution Streak (long-term activity signal)
-* Language Usage (primary production languages)
-
-These elements are kept **intentionally clean and minimal** to align with how **FAANG and Tier-1 recruiters** evaluate engineering profiles — focusing on **consistency, ownership, and depth**, not visual noise.
-
-
-
----
-
-⭐ This GitHub profile is intentionally designed to signal **Senior / Staff-adjacent engineering maturity**, system design depth, and production ownership — the key factors recruiters look for when shortlisting top-tier candidates.
+⭐ *This profile is intentionally designed for Senior / Staff‑level Android, Mobile Platform, and Distributed Systems roles at top‑tier companies (Google, Meta, Amazon, Microsoft, fintech & enterprise scaleups).*
