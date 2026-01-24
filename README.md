@@ -155,4 +155,4 @@ Kotlin, Room, Firebase, WorkManager, Clean Architecture
 
 ---
 
-⭐ *This profile is intentionally designed for Senior / Staff‑level Android, Mobile Platform, and Distributed Systems roles at top‑tier companies (Google, Meta, Amazon, Microsoft, fintech & enterprise scaleups).*
+⭐ *This profile is intentionally designed for Senior / Staff‑level Android, Mobile Platform, and Distributed Systems roles at top‑tier companies.*
