@@ -1,109 +1,177 @@
-<h1 align="center">Hi 👋, I'm Nishant Modi</h1>
-<h3 align="center">Senior Android Platform Engineer | Scalable Systems | 250K+ Users</h3>
+# Hi, I'm Nishant Modi 👋
+- Built modular AI integration architecture
+- Optimized response flow and interaction handling
 
-<p align="center">
-🚀 Building high-performance, scalable Android systems <br>
-⚡ Expert in Offline-First, Distributed Systems, Performance Optimization <br>
-🌍 Open to Remote | India | US/EU Timezones
-</p>
+### Tech Stack
+Kotlin • LLM APIs • Voice Processing • Jetpack Compose • REST APIs
 
-<p align="center">
-<a href="https://nishantmodi92.github.io">Portfolio</a> •
-<a href="https://www.linkedin.com/in/nishantmodi92">LinkedIn</a> •
-<a href="mailto:nishantmodimaster@gmail.com">Email</a> •
-<a href="https://github.com/nishantmodi92">GitHub</a>
-</p>
+🔗 GitHub Repository: (https://github.com/nishantmodi92)
 
-## 🚀 Professional Summary
+---
 
-Senior Android Platform Engineer with 8+ years of experience building scalable, high-performance mobile systems used by 250K+ users.
+# About
+Senior Android Platform Engineer with expertise in distributed systems, offline-first architecture, scalable mobile platforms, and performance engineering. Building reliable, fault-tolerant, high-performance Android systems using Kotlin, Jetpack Compose, Coroutines, and Clean Architecture.
 
-Expert in Kotlin, Jetpack Compose, and modern Android architecture (MVVM/MVI, Clean Architecture), with deep focus on performance, reliability, and distributed systems.
+---
 
-✔ Improved app stability to 99.8% crash-free sessions  
-✔ Reduced ANRs by 40% via concurrency optimization  
-✔ Cut API latency by 35% with caching & network optimization  
-✔ Optimized algorithms (O(N²) → O(N log N)) for 60% performance gain  
+# Tech Stack 
+Languages
 
-Passionate about building **offline-first, resilient mobile platforms** that scale globally.
+Kotlin
 
-## 💥 Impact Highlights (Production-Proven)
+Java
 
-- 📈 Scaled Android platform to **250K+ MAU** with 99.8% crash-free sessions  
-- ⚡ Reduced ANRs by **40%** via Coroutines & threading optimization  
-- 🚀 Improved cold start time by **30%**  
-- 🌐 Reduced API latency by **35%** (caching + deduplication)  
-- 🧠 Optimized algorithms → **60% performance gain**  
-- 🏗 Reduced build time by **35%** via modular architecture  
-- 🧪 Increased test coverage to **75%+ → 40% fewer regressions**  
-- 🔥 Reduced production incidents by **45%** via observability
+SQL
 
-- ## 🛠 Tech Stack
+Android
 
-### 📱 Android & Mobile
-Kotlin • Jetpack Compose • Android SDK • MVVM • MVI • Clean Architecture • Multi-Module • Hilt
+Android SDK
 
-### ⚙️ Concurrency & Data
-Coroutines • Flow • StateFlow • Room • DataStore • Offline-First • WorkManager
+Jetpack Compose
 
-### 🌐 Backend & Systems
-REST • GraphQL • gRPC • Microservices • System Design • CAP Theorem • Eventual Consistency
+MVVM
 
-### 🚀 DevOps & Quality
-CI/CD • Jenkins • GitHub Actions • Fastlane • Crashlytics • Feature Flags • A/B Testing
+MVI
 
+Clean Architecture
 
-## 🔥 Architecture Projects (Production-Grade)
+Modular Architecture
 
-### 🚀 Offline-First Sync Engine
-🔗 https://github.com/nishantmodi92/offline-first-sync-engine
+Material Design
 
-Built a scalable offline-first synchronization engine ensuring seamless data consistency across unreliable networks.
+Navigation Component
 
-💡 Key Features:
-- Intelligent conflict resolution
-- Background sync using WorkManager
-- Eventual consistency model
+Concurrency & Performance
 
-📈 Impact:
-- Enabled uninterrupted user experience without internet
-- Reduced data sync failures significantly
+Coroutines
 
-🛠 Tech:
-Kotlin • Room • WorkManager • Coroutines • Flow
+Flow
 
-### 🎬 Scalable Streaming Platform
+StateFlow
 
-Designed a high-performance video streaming system supporting 10K+ concurrent users.
+SharedFlow
 
-📈 Impact:
-- Reduced buffering under poor network conditions
-- Improved playback performance
+ANR Reduction
 
-🛠 Tech:
-Android • ExoPlayer • Networking Optimization • Caching
+Memory Optimization
 
-## 🧠 System Design Expertise
+Threading Optimization
 
-- Offline-First Systems
-- Distributed Sync Engines
-- Low-Latency Mobile Systems
-- High Availability Architecture
+Performance Tuning
 
+Distributed Systems
 
-## 📊 GitHub Stats
+Offline-First Architecture
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantmodi92&theme=radical" />
-</p>
+Eventual Consistency
 
+Sync Engines
 
-## 🤝 Let's Connect
+Conflict Resolution
 
-💼 Open to Senior / Staff Android Roles  
-🌍 Remote | India | Global Opportunities  
+Fault Tolerance
 
-📧 Email: nishantmodimaster@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/nishantmodi92  
-🌐 Portfolio: https://nishantmodi92.github.io  
+Retry Strategies
+
+Recovery Workflows
+
+Data & Networking
+
+Room
+
+DataStore
+
+Retrofit
+
+REST APIs
+
+GraphQL
+
+Caching Strategies
+
+Delta Sync
+
+API Optimization
+
+DevOps
+
+GitHub Actions
+
+Jenkins
+
+Fastlane
+
+CI/CD
+
+Testing
+
+JUnit
+
+Espresso
+
+MockK
+
+UI Testing
+
+Unit Testing
+
+Observability
+
+Logging
+
+Monitoring
+
+Crash Analysis
+
+Performance Monitoring
+
+---
+
+# 📈 Engineering Focus Areas
+
+- Scalable Mobile Systems
+- Distributed Mobile Architecture
+- Offline-First Design
+- High Availability Systems
+- Fault-Tolerant Applications
+- Platform Reliability
+- Performance Optimization
+- Clean Architecture
+- Mobile System Design
+- Production Engineering
+
+---
+
+# 🏗️ Current Goals
+
+- Building production-grade distributed mobile systems
+- Exploring large-scale platform engineering
+- Advancing Android system architecture patterns
+- Scaling offline-first infrastructure
+- Deepening expertise in reliability engineering
+
+---
+
+# 📚 Problem Solving
+
+- Active LeetCode Practice
+- Strong in Trees, Graphs & Dynamic Programming
+- Focused on scalable architecture & system design
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: nishantmodimaster@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/nishantmodi92
+
+🌐 Portfolio: https://nishantmodi92.github.io
+
+💻 GitHub: https://github.com/nishantmodi92
+
+---
+
+# ⚡ Engineering Philosophy
+
+"Build systems that scale reliably, perform efficiently, and remain maintainable under real-world complexity."
