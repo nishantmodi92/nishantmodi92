@@ -1,177 +1,58 @@
 # Hi, I'm Nishant Modi 👋
-- Built modular AI integration architecture
-- Optimized response flow and interaction handling
 
-### Tech Stack
-Kotlin • LLM APIs • Voice Processing • Jetpack Compose • REST APIs
+Senior Android Platform Engineer with 8+ years of experience building scalable, high-performance Android applications and platform systems using Kotlin, Jetpack Compose, and Clean Architecture.
 
-🔗 GitHub Repository: (https://github.com/nishantmodi92)
+## About Me
 
----
+- Senior Android Engineer focused on scalable mobile architecture
+- Expertise in Offline-First Android Systems
+- Specialized in Kotlin, Jetpack Compose & Performance Optimization
+- Built enterprise Android systems serving 250K+ users
+- Reduced ANRs by 40% and improved API latency by 35%
+- Strong focus on modular architecture, resiliency, and scalability
+- Open to Remote, Hybrid & Global Engineering Opportunities
 
-# About
-Senior Android Platform Engineer with expertise in distributed systems, offline-first architecture, scalable mobile platforms, and performance engineering. Building reliable, fault-tolerant, high-performance Android systems using Kotlin, Jetpack Compose, Coroutines, and Clean Architecture.
+## Tech Stack
 
----
+### Languages
+Kotlin • Java
 
-# Tech Stack 
-Languages
+### Android
+Android SDK • Jetpack Compose • MVVM • MVI • Clean Architecture • Material Design
 
-Kotlin
+### Jetpack
+Room • WorkManager • Navigation • Paging 3 • DataStore • Lifecycle
 
-Java
+### Architecture & Scalability
+Offline-First Systems • Modularization • Synchronization Engines • Fault Tolerance
 
-SQL
+### Performance
+Coroutines • Flow • StateFlow • Memory Optimization • ANR Reduction
 
-Android
+### APIs
+REST APIs • Retrofit • GraphQL • Firebase
 
-Android SDK
+### DevOps
+GitHub Actions • Jenkins • CI/CD • Fastlane
 
-Jetpack Compose
+### Testing
+JUnit • Espresso • MockK
 
-MVVM
+## Engineering Impact
 
-MVI
+- 250K+ Users Supported
+- 40% Reduction in ANRs
+- 35% Faster API Response Time
+- 75%+ Automated Test Coverage
+- 40+ Modular Android Components
 
-Clean Architecture
+ ## Connect With Me
 
-Modular Architecture
+LinkedIn:
+https://www.linkedin.com/in/nishantmodi92
 
-Material Design
+Portfolio:
+https://nishantmodi92.github.io
 
-Navigation Component
-
-Concurrency & Performance
-
-Coroutines
-
-Flow
-
-StateFlow
-
-SharedFlow
-
-ANR Reduction
-
-Memory Optimization
-
-Threading Optimization
-
-Performance Tuning
-
-Distributed Systems
-
-Offline-First Architecture
-
-Eventual Consistency
-
-Sync Engines
-
-Conflict Resolution
-
-Fault Tolerance
-
-Retry Strategies
-
-Recovery Workflows
-
-Data & Networking
-
-Room
-
-DataStore
-
-Retrofit
-
-REST APIs
-
-GraphQL
-
-Caching Strategies
-
-Delta Sync
-
-API Optimization
-
-DevOps
-
-GitHub Actions
-
-Jenkins
-
-Fastlane
-
-CI/CD
-
-Testing
-
-JUnit
-
-Espresso
-
-MockK
-
-UI Testing
-
-Unit Testing
-
-Observability
-
-Logging
-
-Monitoring
-
-Crash Analysis
-
-Performance Monitoring
-
----
-
-# 📈 Engineering Focus Areas
-
-- Scalable Mobile Systems
-- Distributed Mobile Architecture
-- Offline-First Design
-- High Availability Systems
-- Fault-Tolerant Applications
-- Platform Reliability
-- Performance Optimization
-- Clean Architecture
-- Mobile System Design
-- Production Engineering
-
----
-
-# 🏗️ Current Goals
-
-- Building production-grade distributed mobile systems
-- Exploring large-scale platform engineering
-- Advancing Android system architecture patterns
-- Scaling offline-first infrastructure
-- Deepening expertise in reliability engineering
-
----
-
-# 📚 Problem Solving
-
-- Active LeetCode Practice
-- Strong in Trees, Graphs & Dynamic Programming
-- Focused on scalable architecture & system design
-
----
-
-# 🤝 Connect With Me
-
-📧 Email: nishantmodimaster@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/nishantmodi92
-
-🌐 Portfolio: https://nishantmodi92.github.io
-
-💻 GitHub: https://github.com/nishantmodi92
-
----
-
-# ⚡ Engineering Philosophy
-
-"Build systems that scale reliably, perform efficiently, and remain maintainable under real-world complexity."
+Email:
+nishantmodimaster@gmail.com
