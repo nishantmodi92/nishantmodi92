@@ -1,58 +1,105 @@
 # Hi, I'm Nishant Modi 👋
 
-Senior Android Platform Engineer with 8+ years of experience building scalable, high-performance Android applications and platform systems using Kotlin, Jetpack Compose, and Clean Architecture.
+Senior Android Platform Engineer with 8+ years of experience building scalable Android applications, platform systems, and enterprise mobile solutions.
 
-## About Me
+🚀 Expertise:
+- Kotlin & Java
+- Jetpack Compose
+- Android Architecture
+- MVVM / MVI
+- Clean Architecture
+- Modular Architecture
+- Offline-First Systems
+- Performance Optimization
+- Mobile System Design
+- CI/CD Automation
+- Android Testing
+- AI-Assisted Development
 
-- Senior Android Engineer focused on scalable mobile architecture
-- Expertise in Offline-First Android Systems
-- Specialized in Kotlin, Jetpack Compose & Performance Optimization
-- Built enterprise Android systems serving 250K+ users
-- Reduced ANRs by 40% and improved API latency by 35%
-- Strong focus on modular architecture, resiliency, and scalability
-- Open to Remote, Hybrid & Global Engineering Opportunities
+📈 Career Highlights
+✔ Reduced ANRs by 40%
+✔ Improved API latency by 35%
+✔ Increased automated test coverage beyond 75%
+✔ Architected modular Android systems across 40+ modules
+✔ Delivered Android solutions serving 250K+ users
 
-## Tech Stack
+💡 Currently Learning
+- Android System Design
+- Advanced Mobile Architecture
+- Generative AI
+- LLM Integration
+- AI-Powered Mobile Experiences
+
+  ## Tech Stack
 
 ### Languages
 Kotlin • Java
 
 ### Android
-Android SDK • Jetpack Compose • MVVM • MVI • Clean Architecture • Material Design
+Android SDK
+Jetpack Compose
+Android Jetpack
+MVVM
+MVI
+Clean Architecture
+Modular Architecture
+Material Design
 
-### Jetpack
-Room • WorkManager • Navigation • Paging 3 • DataStore • Lifecycle
+### Jetpack Libraries
+Room
+Navigation Component
+WorkManager
+Paging 3
+DataStore
+Lifecycle
 
-### Architecture & Scalability
-Offline-First Systems • Modularization • Synchronization Engines • Fault Tolerance
+### Networking
+Retrofit
+REST APIs
+GraphQL
+Offline-First Architecture
+Caching Strategies
 
-### Performance
-Coroutines • Flow • StateFlow • Memory Optimization • ANR Reduction
+### Dependency Injection
+Hilt
+Dagger
 
-### APIs
-REST APIs • Retrofit • GraphQL • Firebase
-
-### DevOps
-GitHub Actions • Jenkins • CI/CD • Fastlane
+### Concurrency
+Coroutines
+Flow
+StateFlow
+SharedFlow
 
 ### Testing
-JUnit • Espresso • MockK
+JUnit
+Espresso
+MockK
+UI Testing
+Unit Testing
 
-## Engineering Impact
+### DevOps
+GitHub Actions
+Jenkins
+Fastlane
+CI/CD
 
-- 250K+ Users Supported
-- 40% Reduction in ANRs
-- 35% Faster API Response Time
-- 75%+ Automated Test Coverage
-- 40+ Modular Android Components
+### Cloud & Analytics
+Firebase
+Crashlytics
+Analytics
 
- ## Connect With Me
+### AI & Emerging Tech
+Claude AI
+Prompt Engineering
+LLMs
+AI-Assisted Development
+Android AI Integration
 
-LinkedIn:
-https://www.linkedin.com/in/nishantmodi92
+📫 Connect With Me
 
-Portfolio:
-https://nishantmodi92.github.io
+LinkedIn: www.linkedin.com/in/nishantmodi92
 
-Email:
-nishantmodimaster@gmail.com
+Portfolio: nishantmodi92.github.io
+
+
+Email: nishantmodimaster@gmail.com
