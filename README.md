@@ -95,11 +95,16 @@ LLMs
 AI-Assisted Development
 Android AI Integration
 
-📫 Connect With Me
+## Connect With Me
 
-LinkedIn: www.linkedin.com/in/nishantmodi92
+📧 Email:
+nishantmodimaster@gmail.com
 
-Portfolio: nishantmodi92.github.io
+💼 LinkedIn:
+www.linkedin.com/in/nishantmodi92
 
+🌐 Portfolio:
+nishantmodi92.github.io
 
-Email: nishantmodimaster@gmail.com
+💻 GitHub:
+github.com/nishantmodi92
