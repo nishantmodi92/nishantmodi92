@@ -1,110 +1,97 @@
 # Hi, I'm Nishant Modi 👋
 
-Senior Android Platform Engineer with 8+ years of experience building scalable Android applications, platform systems, and enterprise mobile solutions.
+## Senior Android Platform Engineer
 
-🚀 Expertise:
-- Kotlin & Java
-- Jetpack Compose
-- Android Architecture
-- MVVM / MVI
-- Clean Architecture
-- Modular Architecture
-- Offline-First Systems
-- Performance Optimization
-- Mobile System Design
-- CI/CD Automation
-- Android Testing
-- AI-Assisted Development
+Senior Android Platform Engineer with 8+ years of experience building scalable, high-performance Android applications across enterprise and consumer domains.
 
-📈 Career Highlights
-✔ Reduced ANRs by 40%
-✔ Improved API latency by 35%
-✔ Increased automated test coverage beyond 75%
-✔ Architected modular Android systems across 40+ modules
-✔ Delivered Android solutions serving 250K+ users
+I specialize in Kotlin, Jetpack Compose, Android Architecture, Offline-First Systems, Performance Engineering, and Platform Modernization. My experience includes designing Android platforms serving 250K+ active users, leading modularization initiatives across 40+ modules, improving application performance, and mentoring engineers on modern Android development practices.
 
-💡 Currently Learning
-- Android System Design
-- Advanced Mobile Architecture
-- Generative AI
-- LLM Integration
-- AI-Powered Mobile Experiences
+### Core Expertise
 
-  ## Tech Stack
+* Kotlin & Java
+* Jetpack Compose
+* Android SDK
+* MVVM & MVI
+* Clean Architecture
+* Modular Architecture
+* Offline-First Systems
+* Mobile System Design
+* Kotlin Coroutines & Flow
+* Room Database
+* WorkManager
+* Hilt & Dagger
+* REST APIs & GraphQL
+* Firebase
+* CI/CD Automation
+* Performance Optimization
+* Technical Leadership
+* Platform Engineering
+* Generative AI for Mobile Applications
+
+### Key Achievements
+
+✅ Reduced Application ANRs by 40%
+
+✅ Improved API Response Performance by 35%
+
+✅ Led Modular Architecture Across 40+ Modules
+
+✅ Supported Android Platforms Serving 250K+ Users
+
+✅ Increased Automated Test Coverage Beyond 75%
+
+### Currently Exploring
+
+* Advanced Android System Design
+* AI-Powered Mobile Applications
+* Mobile Platform Engineering
+* Distributed Mobile Systems
+* LLM Integration in Android Apps
+
+## Tech Stack
 
 ### Languages
+
 Kotlin • Java
 
 ### Android
-Android SDK
-Jetpack Compose
-Android Jetpack
-MVVM
-MVI
-Clean Architecture
-Modular Architecture
-Material Design
 
-### Jetpack Libraries
-Room
-Navigation Component
-WorkManager
-Paging 3
-DataStore
-Lifecycle
-
-### Networking
-Retrofit
-REST APIs
-GraphQL
-Offline-First Architecture
-Caching Strategies
-
-### Dependency Injection
-Hilt
-Dagger
+Android SDK • Jetpack Compose • Android Jetpack • MVVM • MVI • Clean Architecture • Modular Architecture • Material 3
 
 ### Concurrency
-Coroutines
-Flow
-StateFlow
-SharedFlow
 
-### Testing
-JUnit
-Espresso
-MockK
-UI Testing
-Unit Testing
+Coroutines • Flow • StateFlow • SharedFlow
+
+### Data & Networking
+
+REST APIs • Retrofit • OkHttp • GraphQL • Room • DataStore • Paging 3
+
+### Dependency Injection
+
+Hilt • Dagger 2
 
 ### DevOps
-GitHub Actions
-Jenkins
-Fastlane
-CI/CD
+
+Git • GitHub Actions • Jenkins • Fastlane • CI/CD
+
+### Testing
+
+JUnit • Espresso • MockK • Unit Testing • UI Testing
 
 ### Cloud & Analytics
-Firebase
-Crashlytics
-Analytics
 
-### AI & Emerging Tech
-Claude AI
-Prompt Engineering
-LLMs
-AI-Assisted Development
-Android AI Integration
+Firebase • Firebase Analytics • Crashlytics
 
-## Connect With Me
+### Architecture
 
-📧 Email:
-nishantmodimaster@gmail.com
+System Design • Offline-First Architecture • Scalability • Design Patterns • Platform Engineering
 
-💼 LinkedIn:
-www.linkedin.com/in/nishantmodi92
+Let's Connect
 
-🌐 Portfolio:
-nishantmodi92.github.io
+📧 Email: nishantmodimaster@gmail.com
 
-💻 GitHub:
-github.com/nishantmodi92
+💼 LinkedIn: (https://www.linkedin.com/in/nishantmodi92)
+
+🌐 Portfolio: nishantmodi92.github.io
+
+📱 Android | Kotlin | Architecture | Scalability | Leadership
