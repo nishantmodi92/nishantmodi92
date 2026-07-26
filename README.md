@@ -1,97 +1,266 @@
-# Hi, I'm Nishant Modi 👋
+<div align="center">
 
-## Senior Android Platform Engineer
+# 👋 Hi, I'm Nishant Modi
 
-Senior Android Platform Engineer with 8+ years of experience building scalable, high-performance Android applications across enterprise and consumer domains.
+### Senior Android Platform Engineer | Kotlin | Jetpack Compose | Clean Architecture | Performance Engineering
 
-I specialize in Kotlin, Jetpack Compose, Android Architecture, Offline-First Systems, Performance Engineering, and Platform Modernization. My experience includes designing Android platforms serving 250K+ active users, leading modularization initiatives across 40+ modules, improving application performance, and mentoring engineers on modern Android development practices.
+Building scalable, high-performance Android applications with modern Android technologies.
 
-### Core Expertise
+[![Profile Views](https://komarev.com/ghpvc/?username=nishantmodi92&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/nishantmodi92)
 
-* Kotlin & Java
-* Jetpack Compose
-* Android SDK
-* MVVM & MVI
-* Clean Architecture
-* Modular Architecture
-* Offline-First Systems
-* Mobile System Design
-* Kotlin Coroutines & Flow
-* Room Database
-* WorkManager
-* Hilt & Dagger
-* REST APIs & GraphQL
-* Firebase
-* CI/CD Automation
-* Performance Optimization
-* Technical Leadership
-* Platform Engineering
-* Generative AI for Mobile Applications
+</div>
 
-### Key Achievements
+---
 
-✅ Reduced Application ANRs by 40%
+# 🚀 About Me
 
-✅ Improved API Response Performance by 35%
+I'm a Senior Android Platform Engineer with **8+ years of experience** designing and developing scalable Android applications.
 
-✅ Led Modular Architecture Across 40+ Modules
+I specialize in modern Android development using Kotlin, Jetpack Compose, MVVM, Clean Architecture, Coroutines, Flow, Hilt, Room, Retrofit, Firebase, and CI/CD automation.
 
-✅ Supported Android Platforms Serving 250K+ Users
+Throughout my career, I have delivered Android solutions across Insurance, Healthcare, Utilities, FinTech, and Enterprise domains with a strong focus on performance, scalability, maintainability, and user experience.
 
-✅ Increased Automated Test Coverage Beyond 75%
+I enjoy solving complex engineering problems, improving application performance, modernizing legacy Android applications, and building reusable architectures that accelerate product development.
 
-### Currently Exploring
+---
 
-* Advanced Android System Design
-* AI-Powered Mobile Applications
-* Mobile Platform Engineering
-* Distributed Mobile Systems
-* LLM Integration in Android Apps
+# 💼 Current Role
 
-## Tech Stack
+**Senior Software Engineer (Android Platform)**
 
-### Languages
+**EXL Service Pvt. Ltd.**
 
-Kotlin • Java
+📍 Noida, India
 
-### Android
+Working on enterprise Android platforms serving production users through scalable, offline-first Android solutions.
 
-Android SDK • Jetpack Compose • Android Jetpack • MVVM • MVI • Clean Architecture • Modular Architecture • Material 3
+---
 
-### Concurrency
+# 💻 Tech Stack
 
-Coroutines • Flow • StateFlow • SharedFlow
+## Languages
 
-### Data & Networking
+- Kotlin
+- Java
+- SQL
 
-REST APIs • Retrofit • OkHttp • GraphQL • Room • DataStore • Paging 3
+## Android
 
-### Dependency Injection
+- Android SDK
+- Jetpack Compose
+- XML
+- Material Design 3
+- Android Jetpack
 
-Hilt • Dagger 2
+## Architecture
 
-### DevOps
+- MVVM
+- Clean Architecture
+- MVI
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Offline First
 
-Git • GitHub Actions • Jenkins • Fastlane • CI/CD
+## Jetpack
 
-### Testing
+- Navigation
+- Room
+- WorkManager
+- Paging 3
+- DataStore
+- ViewModel
+- LiveData
+- CameraX
 
-JUnit • Espresso • MockK • Unit Testing • UI Testing
+## Dependency Injection
 
-### Cloud & Analytics
+- Hilt
+- Dagger 2
 
-Firebase • Firebase Analytics • Crashlytics
+## Networking
 
-### Architecture
+- Retrofit
+- OkHttp
+- REST APIs
+- GraphQL
 
-System Design • Offline-First Architecture • Scalability • Design Patterns • Platform Engineering
+## Async Programming
 
-Let's Connect
+- Coroutines
+- Flow
+- StateFlow
+- SharedFlow
 
-📧 Email: nishantmodimaster@gmail.com
+## Firebase
 
-💼 LinkedIn: (https://www.linkedin.com/in/nishantmodi92)
+- Authentication
+- Firestore
+- Analytics
+- Crashlytics
+- Remote Config
+- Cloud Messaging
 
-🌐 Portfolio: nishantmodi92.github.io
+## DevOps
 
-📱 Android | Kotlin | Architecture | Scalability | Leadership
+- Git
+- GitHub
+- GitHub Actions
+- Jenkins
+- Fastlane
+- CI/CD
+
+## Cloud
+
+- Google Cloud Platform
+- AWS Fundamentals
+
+---
+
+# ⭐ Core Expertise
+
+- Android Architecture
+- Kotlin Development
+- Jetpack Compose
+- Android Performance Optimization
+- Offline First Applications
+- Modular Android Development
+- Enterprise Android Platforms
+- Mobile System Design
+- API Integration
+- Performance Engineering
+
+---
+
+# 📊 Professional Highlights
+
+- ✔ 8+ Years of Android Development Experience
+- ✔ Enterprise Android Platform Development
+- ✔ Offline First Architecture
+- ✔ Multi-Module Architecture
+- ✔ Kotlin & Jetpack Compose Expert
+- ✔ Performance Optimization
+- ✔ Android Platform Modernization
+- ✔ CI/CD Automation
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ PolicyGuard
+
+Enterprise-grade offline-first Android application for policy and claims management.
+
+### Highlights
+
+- Offline-first Architecture
+- Secure Local Storage
+- Background Synchronization
+- Room Database
+- WorkManager
+- Clean Architecture
+- Jetpack Compose
+- REST API Integration
+
+➡ Repository: **PolicyGuard**
+
+---
+
+## ❤️ CarePath
+
+Remote patient monitoring Android platform built using modern Android technologies.
+
+### Highlights
+
+- Bluetooth Integration
+- Health Monitoring
+- Real-time Alerts
+- Firebase
+- Room Database
+- Coroutines
+- Kotlin Flow
+- Offline Data Support
+
+➡ Repository: **CarePath**
+
+---
+
+# 🏅 Certifications
+
+- Google Professional Cloud Developer Learning Path
+- Generative AI on AWS
+- Prompt Engineering
+- Android Architecture
+- Cloud Fundamentals
+
+---
+
+# 🏆 Awards & Recognition
+
+### ⭐ Star Performance Award — June 2026
+
+Recognized for delivering high-quality Android platform solutions, driving performance optimization initiatives, and contributing to architecture modernization efforts.
+
+---
+
+# 📚 Currently Learning
+
+- Kotlin Multiplatform
+- Advanced Jetpack Compose
+- Android System Design
+- AI Integration in Android
+- Gemini API
+- Large Scale Android Architecture
+
+---
+
+
+```
+
+---
+
+# 📄 Resume
+
+A copy of my latest resume is available in the **resume** repository.
+
+---
+
+# 📜 Certifications
+
+All professional certifications are available in the **certifications** repository.
+
+---
+
+# 🏆 Achievements
+
+Awards and recognitions are available in the **achievements** repository.
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email
+
+nishantmodimaster@gmail.com
+
+💼 LinkedIn
+
+(https://www.linkedin.com/in/nishantmodi92)
+
+🌐 Portfolio
+
+(https://www.nishantmodi92.github.io)
+
+💻 GitHub
+
+https://github.com/nishantmodi92
+
+---
+
+# 💬 Quote
+
+> "Build software that is simple, scalable, maintainable, and delivers real business value."
+
+---
+
+If you like my work, consider giving a ⭐ to my repositories.
