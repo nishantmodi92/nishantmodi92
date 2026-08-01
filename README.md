@@ -1,219 +1,204 @@
-<!-- ========================================= -->
-<!--              HERO SECTION                 -->
-<!-- ========================================= -->
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
 
-<h1 align="center">
-Hi 👋, I'm Nishant Modi
-</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Android Platform Engineer | Kotlin Expert | Jetpack Compose | Clean Architecture | Enterprise Mobility | Performance Engineering
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3DDC84,100:4285F4&text=Nishant%20Modi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Senior%20Android%20Platform%20Engineer&descAlignY=60"/>
 
-<p align="center">
+# 👋 Hi, I'm Nishant Modi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&lines=Senior+Android+Platform+Engineer;8%2B+Years+of+Android+Development;Kotlin+%7C+Jetpack+Compose+Expert;Building+Scalable+Enterprise+Applications;Offline-First+Architecture;Performance+Optimization;Clean+Architecture+%7C+MVVM;Always+Learning+Something+New"/>
+### Senior Android Platform Engineer | Kotlin | Jetpack Compose | Clean Architecture | Android SDK
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=8%2B+Years+of+Android+Development;Building+Scalable+Enterprise+Applications;Kotlin+%7C+Jetpack+Compose+Expert;Offline-First+Architecture;Performance+Optimization;Always+Learning+Modern+Android"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=nishantmodi92&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/nishantmodi92?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/nishantmodi92?style=for-the-badge"/>
 
 </p>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Senior Android Platform Engineer with **8+ years** of experience building scalable Android applications across Enterprise, Utilities, Healthcare, FinTech and Consumer domains.
+I'm a **Senior Android Platform Engineer** with **8+ years of experience** designing and developing scalable Android applications using modern Android technologies.
 
-💡 Passionate about designing maintainable software using **Kotlin**, **Jetpack Compose**, **Clean Architecture**, **MVVM**, **Coroutines**, and **Offline-First Architecture**.
+My primary expertise includes **Kotlin**, **Jetpack Compose**, **Clean Architecture**, **MVVM**, **Coroutines**, **Flow**, **Hilt**, **Room**, and **REST APIs**. I enjoy building maintainable, high-performance applications with a strong focus on architecture, user experience, and long-term scalability.
 
-❤️ I enjoy solving complex engineering problems while focusing on scalability, performance, clean code, and user experience.
+### 🚀 What I Focus On
+
+- 📱 Enterprise Android Development
+- 🏗 Clean Architecture & MVVM
+- ⚡ Performance Optimization
+- 🔄 Offline-First Mobile Applications
+- 🔐 Secure Android Applications
+- ☁ REST API Integration
+- 🚀 CI/CD Automation
+- 🤖 AI-assisted Mobile Experiences
 
 ---
 
-## 🌎 Connect With Me
+# 💻 Tech Stack
 
-<p align="left">
+## 📱 Languages & Android
 
-<a href="https://linkedin.com/in/nishantmodi92">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<p>
 
-<a href="mailto:nishantmodimaster@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/nishantmodi92">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://nishantmodi92.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=kotlin"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
 
 </p>
 
----
+## 🏗 Architecture
 
-# 🚀 Tech Stack
+<p>
 
-## Languages
+<img src="https://img.shields.io/badge/MVVM-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-F44336?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Offline%20First-43A047?style=for-the-badge"/>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+</p>
 
----
+## ⚡ Android Jetpack
 
-## Android
+<p>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge)
-![Material3](https://img.shields.io/badge/Material3-4285F4?style=for-the-badge)
-![AndroidX](https://img.shields.io/badge/AndroidX-3DDC84?style=for-the-badge)
-![CameraX](https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge)
-![Media3](https://img.shields.io/badge/Media3-4285F4?style=for-the-badge)
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ViewModel-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Room-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Navigation-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Paging%203-039BE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WorkManager-00ACC1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DataStore-5E35B1?style=for-the-badge"/>
 
----
-
-## Architecture
-
-![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-green?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-red?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository-orange?style=for-the-badge)
-![Offline First](https://img.shields.io/badge/Offline%20First-success?style=for-the-badge)
-![Multi Module](https://img.shields.io/badge/MultiModule-purple?style=for-the-badge)
-
----
-
-## Jetpack
-
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge)
-![Navigation](https://img.shields.io/badge/Navigation-34A853?style=for-the-badge)
-![Paging3](https://img.shields.io/badge/Paging3-4285F4?style=for-the-badge)
-![WorkManager](https://img.shields.io/badge/WorkManager-34A853?style=for-the-badge)
-![ViewModel](https://img.shields.io/badge/ViewModel-FF9800?style=for-the-badge)
-![DataStore](https://img.shields.io/badge/DataStore-673AB7?style=for-the-badge)
-
----
-
-## Networking
-
-![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
-![OkHttp](https://img.shields.io/badge/OkHttp-000000?style=for-the-badge&logo=okhttp&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-2196F3?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
-
----
-
-## Firebase
-
-![Authentication](https://img.shields.io/badge/Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Remote Config](https://img.shields.io/badge/Remote_Config-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-
-
----
+</p>
 
 ## 💉 Dependency Injection
 
 <p>
 
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge"/>
+
+</p>
+
+## 🌐 Networking
+
+<p>
+
+<img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OkHttp-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-1976D2?style=for-the-badge"/>
+
+</p>
+
+## 🔥 Firebase
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://img.shields.io/badge/Authentication-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Messaging-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-FFA000?style=for-the-badge"/>
+
+</p>
+
+## ⚙️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=gradle"/>
+<img src="https://skillicons.dev/icons?i=jenkins"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
 
 ---
 
-## DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge)
-
----
-
 # 💼 Professional Experience
 
-🏢 Senior Software Engineer (Android Platform)
+### 🏢 Senior Android Platform Engineer
 
-EXL Service
+**EXL Service Pvt. Ltd.**  
+📍 Noida, India
 
-📍 Noida
+**Key Contributions**
 
-2023 — Present
-
-✔ Enterprise Android
-
-✔ Offline First
-
-✔ Performance Optimization
-
-✔ Modularization
-
-✔ Architecture
-
-✔ Technical Leadership
+- Designed enterprise Android applications
+- Built scalable Offline-First architecture
+- Improved app startup and runtime performance
+- Developed reusable Jetpack Compose UI components
+- Integrated secure REST APIs
+- Collaborated with cross-functional teams
+- Participated in code reviews and architecture discussions
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Enterprise Field Operations Platform
+## 📱 Enterprise Field Operations Platform
 
-Enterprise-grade Android platform enabling technicians to manage work orders, inspections, asset maintenance, and customer visits using an offline-first architecture with secure synchronization.
+Enterprise Android application supporting field workforce management with Offline-First architecture.
 
 **Highlights**
 
-- Offline-first architecture
-- Background synchronization
-- Modular Android architecture
-- Secure REST API integration
-- Performance optimization
-- Reusable Jetpack Compose components
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- Room
+- Hilt
+- WorkManager
+- Retrofit
+- Firebase
 
 ---
 
 ## 💳 AI-powered Personal Finance Platform
 
-Android application for intelligent personal finance management featuring AI-assisted expense categorization, budgeting, secure payments, biometric authentication, and offline data synchronization.
+Modern Android application for expense management and budgeting with AI-assisted insights.
 
 **Highlights**
 
-- AI-assisted budgeting
-- Expense categorization
-- Secure authentication
-- Biometric login
-- Offline-first storage
-- Interactive dashboards
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Room
+- Firebase
+- Secure Authentication
+- REST APIs
 
 ---
 
 # 🏆 Achievements
 
-🏅 Star Performance Award — EXL Service (June 2026)
+🥇 Star Performance Award — June 2026
 
-🏅 Delivered enterprise-grade Android applications
-
-🏅 Led Android architecture improvements
-
-🏅 Promoted engineering best practices
+- Recognized for engineering excellence and consistent delivery
+- Contributed to scalable Android platform improvements
+- Supported architecture modernization initiatives
 
 ---
 
 # 📜 Certifications
 
-- Generative AI Explained
+- Generative AI
 - Prompt Engineering
-- Generative AI on AWS
-- Google Professional Cloud Developer (Learning Path)
+- AWS Generative AI Learning
+- Google Cloud Learning Path
 
 ---
 
@@ -221,21 +206,15 @@ Android application for intelligent personal finance management featuring AI-ass
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishantmodi92&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmodi92&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantmodi92"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nishantmodi92&theme=github-dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nishantmodi92"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantmodi92&theme=github-dark"/>
 
 </p>
 
@@ -244,20 +223,41 @@ Android application for intelligent personal finance management featuring AI-ass
 # 🌱 Currently Learning
 
 - Advanced Android Performance
-- AI Integration in Mobile Apps
-- System Design
-- Scalable Mobile Architecture
+- Mobile System Design
+- AI-powered Android Applications
+- Scalable Android Architecture
+- CI/CD Automation
 
 ---
 
-# 💬 Quote
+# 📫 Connect With Me
 
-> "Great software is built through clean architecture, continuous learning, and attention to detail."
+<p>
+
+<a href="mailto:nishantmodimaster@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nishantmodi92">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nishantmodi92">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://nishantmodi92.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thank you for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-</h3>
+*"Building scalable, reliable and maintainable Android applications with modern engineering practices."*
+
+</div>
