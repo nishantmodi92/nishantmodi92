@@ -1,439 +1,491 @@
 # 👋 Hi, I'm Nishant Modi
 
-### Senior Android Platform Engineer
+### Senior Android Platform Engineer | Kotlin | Jetpack Compose | Android Architecture | AI-Enabled Mobile Applications
 
-**Android Architecture • Kotlin • Jetpack Compose • Mobile System Design**
+I’m a **Senior Android Platform Engineer with 8+ years of experience** building scalable, reliable and performance-focused Android applications.
 
-Building scalable, reliable, secure and high-performance Android applications.
+My engineering focus spans **Kotlin, Jetpack Compose, Android SDK, Clean Architecture, MVVM/MVI, multi-module systems, offline-first architecture, resilient networking, performance engineering, CI/CD and AI-enabled mobile experiences**.
 
-[GitHub](https://github.com/nishantmodi92) • [LinkedIn](https://www.linkedin.com/in/nishantmodi92) • [Portfolio](https://nishantmodi92.github.io)
-
----
-
-## 👨‍💻 About Me
-
-Senior Android Platform Engineer with **8+ years of experience** building scalable, reliable and production-grade Android applications.
-
-My core engineering focus includes:
-
-**Kotlin, Jetpack Compose, Clean Architecture, MVVM/MVI, multi-module systems, offline-first architecture, resilient networking, performance engineering, AI-enabled mobile experiences and production reliability.**
-
-I enjoy solving complex Android engineering problems across:
-
-- Android architecture
-- Mobile system design
-- Scalable application development
-- Offline-first systems
-- Real-time and resilient networking
-- Performance optimization
-- Production reliability
-- AI-powered mobile experiences
-- CI/CD and release engineering
-- Developer productivity
+I enjoy solving complex mobile engineering problems — from architecture and system design to performance optimization, production reliability and AI-powered experiences.
 
 ---
 
-# 🛠️ Technical Skills
+## 🚀 Engineering Impact
+
+| 📱 Android       | ⚡ Performance      | 👥 Scale         | 🧩 Architecture |
+| ---------------- | ------------------ | ---------------- | --------------- |
+| 8+ Years         | 40% ANR Reduction  | 250K+ Users      | 40+ Modules     |
+| Kotlin + Compose | 30% Faster Startup | 99.8% Crash-Free | Multi-Module    |
+
+### Key Engineering Outcomes
+
+* ⚡ **40% reduction in ANRs**
+* 🚀 **30% improvement in startup performance**
+* 🌐 **35% improvement in API latency**
+* 🏗️ Modernized an Android ecosystem spanning **40+ modules**
+* 🔧 **35% build-time improvement**
+* 👥 Supported applications serving **250K+ users**
+* 🛡️ Achieved **99.8% crash-free sessions**
+* 🤖 Built and explored **AI-enabled Android experiences**
+
+---
+
+# 🧑‍💻 About Me
+
+```text
+Senior Android Platform Engineer
+8+ years of Android engineering experience
+
+Primary:
+Kotlin • Java • Android SDK • Jetpack Compose
+
+Architecture:
+Clean Architecture • MVVM • MVI • Multi-Module
+Offline-First • SOLID • Design Patterns
+Mobile System Design • API Design
+
+Modern Android:
+AndroidX • ViewModel • Navigation
+Room • WorkManager • DataStore
+Paging 3 • Lifecycle Components
+
+Concurrency:
+Coroutines • Flow • StateFlow • SharedFlow
+
+Networking:
+Retrofit • OkHttp • REST APIs
+Caching • Retry Handling • Resilient Networking
+
+AI:
+Gemini API • ML Kit • Generative AI
+LLM API Integration • AI-Assisted Development
+
+Engineering:
+Performance • Reliability • Security
+Testing • CI/CD • Production Debugging
+HLD • LLD • Code Reviews • Technical Leadership
+```
+
+---
+
+# 🛠️ Technical Stack
+
+## 💻 Languages
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+---
+
+## 📱 Android Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge\&logo=materialdesign\&logoColor=white)
+
+**Android SDK · AndroidX · Jetpack Compose · XML · Material Design 3 · CameraX · Media3 · Google Maps SDK**
+
+---
+
+## 🏗️ Architecture & System Design
+
+**Clean Architecture · MVVM · MVI · Multi-Module Architecture · SOLID · Design Patterns · Repository Pattern · Offline-First Architecture · Scalable Mobile Architecture · Mobile System Design · API Design · Reusable Components · Architecture Modernization**
+
+---
+
+## ⚡ Modern Android & Jetpack
+
+**ViewModel · Navigation Component · Room · WorkManager · Paging 3 · DataStore · Lifecycle Components · Background Processing**
+
+---
+
+## 🔄 Concurrency & Reactive Programming
+
+**Kotlin Coroutines · Flow · StateFlow · SharedFlow · Structured Concurrency · Asynchronous Programming**
+
+---
+
+## 🌐 Networking & APIs
+
+**Retrofit · OkHttp · REST APIs · JSON · API Integration · API Abstraction · Caching · Retry Handling · Error Handling · Resilient Networking**
+
+---
+
+# 🤖 AI & Generative AI
+
+I’m actively building toward the intersection of **Android + AI**.
+
+### AI Technologies
+
+* 🤖 Gemini API
+* 🧠 ML Kit
+* ✨ Generative AI
+* 🔗 LLM API Integration
+* 📱 AI-Powered Mobile Experiences
+* 💡 AI Feature Prototyping
+* 🔍 Intelligent Insights
+* ⚙️ AI-Assisted Android Development
+* 🧪 AI-assisted debugging
+* 🧪 Test generation
+* 📝 Technical documentation assistance
+* 🔎 Code review assistance
+
+I have also worked on AI-enabled Android proof-of-concepts and explored intelligent mobile interactions while keeping AI integration separated from presentation, business and data layers.
+
+---
+
+# 🔥 Performance & Reliability
+
+I focus on making Android applications **fast, stable, observable and production-ready**.
+
+### Performance Engineering
+
+* Startup optimization
+* Cold-start optimization
+* Memory optimization
+* ANR analysis
+* Rendering optimization
+* Lifecycle optimization
+* Background execution
+* Performance monitoring
+* Production debugging
+* Root-cause analysis
+* Baseline Profiles
+* Macrobenchmark
+* Perfetto
+* JankStats
+
+### Production Reliability
+
+* Crash monitoring
+* Firebase Crashlytics
+* Resilient networking
+* Offline-first architecture
+* Background synchronization
+* Error handling
+* Retry strategies
+* Local persistence
+* Production support
+
+---
+
+# 🔐 Mobile Security
+
+**Android Keystore · Biometric Authentication · Encrypted SharedPreferences · Secure Local Storage · Secure API Communication · Credential Manager API · Play Integrity API**
+
+---
+
+# 🧪 Testing & Quality
+
+**Unit Testing · UI Testing · Integration Testing · Regression Testing · Testable Architecture · Quality Engineering · Production Debugging**
+
+---
+
+# 🚀 Build, CI/CD & Engineering
+
+**Gradle · Git · GitHub · GitHub Actions · Jenkins · Fastlane · CI/CD · Build Optimization · Release Automation**
+
+---
+
+# 📊 Featured Engineering Projects
+
+## 1. 🚧 Enterprise Field Operations Platform
+
+### Utilities | Enterprise Android | Offline-First
+
+A large-scale enterprise Android platform designed around reliable field operations, offline workflows, local persistence and background synchronization.
+
+### 💡 Description
+
+Built and modernized Android workflows using **Kotlin, Jetpack Compose, Clean Architecture and multi-module architecture**, with a strong focus on reliability in environments where network connectivity may be inconsistent.
+
+### 🧠 Architecture
+
+* Clean Architecture
+* MVVM
+* Multi-Module Architecture
+* Offline-First
+* Repository Pattern
+* Reactive data flows
+
+### ⚙️ Tech Stack
+
+**Kotlin · Jetpack Compose · Android SDK · MVVM · Clean Architecture · Room · WorkManager · Coroutines · Flow · Hilt · Retrofit · OkHttp · DataStore · Firebase**
+
+### 📈 Impact
+
+* ⚡ 30% startup performance improvement
+* 🧩 40+ module Android ecosystem
+* 🔧 35% build-time improvement
+* 📉 40% ANR reduction
+* 🌐 35% API latency improvement
+* 👥 250K+ users supported
+* 🛡️ 99.8% crash-free sessions
+
+### 🔗 Repository
+
+**Private / Professional Project**
+
+> Client implementation details are confidential.
+
+---
+
+# 2. 🤖 AI-Enabled Personal Finance Platform — FinMate
+
+### FinTech | Android | Generative AI
+
+A modern Android finance platform focused on expense tracking, budgeting, financial insights and AI-assisted experiences.
+
+### ✨ Key Capabilities
+
+* Expense tracking
+* Budget management
+* Financial workflows
+* Local data persistence
+* API integration
+* AI-assisted insights
+* Intelligent mobile interactions
+
+### 🧠 Architecture
+
+* MVVM
+* Clean Architecture
+* Repository Pattern
+* Separation of presentation, business, data and AI layers
+
+### ⚙️ Tech Stack
+
+**Kotlin · Jetpack Compose · MVVM · Clean Architecture · Room · Retrofit · Firebase · Gemini API · AI/LLM**
+
+### 🤖 AI Layer
+
+Explored AI-powered financial insights and contextual mobile experiences through proof-of-concept integrations.
+
+### 🔗 Repository
+
+**Add public repository when available**
+
+---
+
+# 3. 🏃 Healthcare & Fitness Tracker — Healthify
+
+### Healthcare & Fitness | Android
+
+An Android fitness-tracking application focused on activity data, fitness insights and reliable background synchronization.
+
+### ✨ Key Capabilities
+
+* Activity tracking
+* Fitness insights
+* Google Fit integration
+* Background synchronization
+* Local data management
+* Reusable Compose UI
+
+### ⚙️ Tech Stack
+
+**Kotlin · Jetpack Compose · Google Fit API · Room · WorkManager**
+
+### 🎯 Engineering Focus
+
+* Maintainable architecture
+* Reliable background execution
+* Local persistence
+* Performance
+* Reusable UI components
+
+---
+
+# 🏆 Professional Achievement
+
+### ⭐ Star Performance Award — EXL Service
+
+**June 2026**
+
+Recognized with the **Star Performance Award** at EXL Service.
+
+---
+
+# 🎓 Professional Development
+
+### Generative AI
+
+* Google Cloud — Generative AI Learning Path
+* AWS Educate — Introduction to Generative AI
+* Google Cloud Skills Boost — Generative AI Explained
+
+My current development focus includes applying **Generative AI, LLM integrations and AI-assisted engineering workflows to modern Android applications**.
+
+---
+
+# 🧠 Engineering Principles
+
+```text
+Build for scale.
+Design for failure.
+Optimize for users.
+Measure before optimizing.
+Keep architecture maintainable.
+Automate repetitive work.
+Prefer reliable systems over fragile complexity.
+Use AI where it creates real product value.
+```
+
+---
+
+# 🔬 Currently Exploring
 
 ### Android
 
-`Kotlin` `Java` `Android SDK` `Jetpack Compose` `AndroidX` `Material 3` `XML` `Media3` `CameraX`
+* Jetpack Compose
+* Compose Multiplatform
+* Kotlin Multiplatform
+* Android performance engineering
+* Baseline Profiles
+* Macrobenchmark
+* Perfetto
+* JankStats
 
-### Architecture
+### AI
 
-`Clean Architecture` `MVVM` `MVI` `SOLID` `Multi-Module Architecture` `Repository Pattern` `Dependency Injection` `Mobile System Design`
-
-### Kotlin & Reactive Programming
-
-`Coroutines` `Flow` `StateFlow` `SharedFlow` `Structured Concurrency`
-
-### Android Jetpack
-
-`ViewModel` `Room` `WorkManager` `Navigation Component` `Paging 3` `DataStore` `Lifecycle`
-
-### Networking
-
-`Retrofit` `OkHttp` `REST APIs` `WebSockets` `gRPC` `Protobuf` `Caching` `Retry Handling` `Resilient Networking`
-
-### Offline-First
-
-`Room Database` `DataStore` `Offline-First Architecture` `Background Synchronization` `Eventual Consistency` `Conflict Resolution`
-
-### AI & Machine Learning
-
-`Generative AI` `Gemini API` `LLM APIs` `ML Kit` `AI-Powered Mobile Features` `AI-Assisted Insights` `Smart Recommendations` `Summarization` `Smart Replies`
-
-### Firebase
-
-`Firebase Analytics` `Firebase Crashlytics` `Firebase Authentication` `Firebase Cloud Messaging` `Firebase Remote Config`
-
-### Performance
-
-`Startup Optimization` `Cold Start Optimization` `ANR Analysis` `Memory Optimization` `Rendering Optimization` `Jank Reduction` `API Optimization` `Baseline Profiles` `Macrobenchmark` `Perfetto` `JankStats` `Android Profiler`
-
-### Security
-
-`Android Keystore` `Biometric Authentication` `Credential Manager` `Encrypted Storage` `Play Integrity` `Secure API Communication`
-
-### Testing
-
-`JUnit` `Unit Testing` `UI Testing` `Integration Testing` `Repository Testing` `ViewModel Testing`
-
-### CI/CD
-
-`Gradle` `GitHub Actions` `Jenkins` `Fastlane` `Bitrise` `Automated Builds` `Automated Testing` `Release Automation`
+* Gemini API
+* Generative AI
+* LLM integrations
+* AI-powered Android experiences
+* AI-assisted engineering
+* Intelligent mobile workflows
 
 ---
 
-# 📊 Engineering Impact
+# 📈 GitHub Activity
 
-| Area | Impact |
-|---|---:|
-| 👥 User Scale | **250K+ users** |
-| ⚡ ANR Reduction | **40%** |
-| 🚀 Startup Improvement | **30%** |
-| 🌐 API Latency Improvement | **35%** |
-| 💚 Crash-Free Sessions | **99.8%** |
-| 🏗️ Build Time Improvement | **35%** |
-| 📦 Modular Architecture | **40+ modules** |
+### What you'll find here
 
-> Metrics are included only where they accurately represent my professional/project experience.
+📱 Android applications
+🏗️ Architecture experiments
+🤖 AI + Android projects
+⚡ Performance experiments
+🧪 Testing examples
+🔧 Developer tooling
+📚 Kotlin examples
+🧠 System-design explorations
 
 ---
 
-# 🧠 Android Architecture
+# 🧩 Engineering Areas
 
 ```text
-                    Compose UI
-                        │
-                        ▼
-                   ViewModel
-                StateFlow / Flow
-                        │
-                        ▼
-                  Domain Layer
-                 Use Cases / Logic
-                        │
-                        ▼
-                    Repository
-                  /            \
-                 /              \
-              Room            Remote API
-           Local Data       REST / gRPC
-                 \              /
-                  \            /
-                   ▼          ▼
-                    Sync Engine
-                    WorkManager
+Android Development
+        ↓
+Kotlin + Jetpack Compose
+        ↓
+Architecture + System Design
+        ↓
+Offline-First + Resilient Networking
+        ↓
+Performance + Reliability
+        ↓
+CI/CD + Production Engineering
+        ↓
+AI + Intelligent Mobile Experiences
+```
 
+---
 
-Architecture Principles
-. Separation of concerns
-. SOLID principles
-. Dependency inversion
-. Unidirectional data flow
-. Reactive state management
-. Lifecycle-aware processing
-. Testable business logic
-. Modular boundaries
-. Offline-first data access
-. Resilient network communication
+# 🌟 Open Source & Knowledge Sharing
 
-🔄 Offline-First Architecture
+I use GitHub to experiment, document engineering patterns and share practical implementations around:
 
-User Action
-    │
-    ▼
-Local Database
-    │
-    ▼
-Application State
-    │
-    ▼
-WorkManager
-    │
-    ├── Retry
-    │
-    └── Synchronize
-            │
-            ▼
-        Remote API
-            │
-            ▼
-      Server Response
-            │
-            ▼
-     Local State Update
+* Android architecture
+* Kotlin
+* Jetpack Compose
+* Offline-first applications
+* Performance optimization
+* AI-enabled mobile applications
+* Clean Architecture
+* Multi-module Android
+* Coroutines & Flow
+* Testing
+* CI/CD
 
-Key Areas
-. Local-first data access
-. Background synchronization
-. Retry mechanisms
-. Network resilience
-. Eventual consistency
-. Conflict handling
-. Lifecycle-aware synchronization
+---
 
-🤖 AI Engineering
+# 🤝 Let's Connect
 
-My AI focus is on integrating practical AI capabilities into modern Android applications.
+### 💼 LinkedIn
 
-Areas of Focus
-. Gemini API integration
-. LLM API integration
-. Generative AI
-. AI-powered mobile features
-. AI-assisted recommendations
-. Summarization
-. Smart replies
-. Contextual AI experiences
-. ML Kit
-. AI-assisted development
-. AI-assisted testing
-. AI-assisted debugging
+[linkedin.com/in/nishantmodi92](https://www.linkedin.com/in/nishantmodi92)
 
-AI Architecture
+### 💻 GitHub
 
-Android Application
-        │
-        ▼
-   Domain Layer
-        │
-        ▼
- AI Service Interface
-        │
-   ┌────┴────┐
-   │         │
- Gemini     LLM
- Provider   Provider
+[github.com/nishantmodi92](https://github.com/nishantmodi92)
 
+### 🌐 Portfolio
 
-⚡ Performance Engineering
+[nishantmodi92.github.io](https://nishantmodi92.github.io)
 
-Startup
-. Cold-start optimization
-. Lazy initialization
-. Startup profiling
-. Baseline Profiles
+---
 
-Runtime
-. ANR investigation
-. Memory optimization
-. Rendering optimization
-. Jank reduction
-. Coroutine optimization
+## 📬 Open to
 
-Network
-. API optimization
-. Caching
-. Retry strategies
-. Request optimization
-. Response handling
+**Senior Android Engineer · Senior Android Platform Engineer · Android Developer · Android Architecture · Mobile Platform Engineering · AI-Enabled Android Development**
 
-Tools
-Android Profiler, Perfetto, Macrobenchmark, Baseline Profiles, JankStats, Firebase Performance
+Open to **remote, relocation and hybrid opportunities**.
 
-🔐 Android Security
-. Android Keystore
-. Secure local storage
-. Biometric authentication
-. Credential Manager
-. Play Integrity
-. Secure API communication
-. Input validation
-. Authentication protection
-. Sensitive-data handling
+---
 
-🧪 Testing & Quality
-Feature Development
-        │
-        ▼
-    Unit Tests
-        │
-        ▼
- ViewModel Tests
-        │
-        ▼
- Repository Tests
-        │
-        ▼
-     UI Tests
-        │
-        ▼
- Integration Tests
-        │
-        ▼
-   CI Validation
-        │
-        ▼
-      Release
+# ⚡ GitHub Profile Keywords
 
-Feature Development
-        │
-        ▼
-    Unit Tests
-        │
-        ▼
- ViewModel Tests
-        │
-        ▼
- Repository Tests
-        │
-        ▼
-     UI Tests
-        │
-        ▼
- Integration Tests
-        │
-        ▼
-   CI Validation
-        │
-        ▼
-      Release
-
-Testing Stack
-
-JUnit, Unit Testing UI Testing, Integration Testing, Repository Testing, ViewModel Testing
-
-🔄 CI/CD
-
-Pull Request
-     ↓
-Code Review
-     ↓
-Static Checks
-     ↓
-Gradle Build
-     ↓
-Unit Tests
-     ↓
-UI / Integration Tests
-     ↓
-Release Build
-     ↓
-Deployment
-     ↓
-Production Monitoring
-
-Tools
-Gradle, GitHub Actions, Jenkins, Fastlane, Bitrise
-
-📦 Multi-Module Architecture
-app
-│
-├── core
-│   ├── common
-│   ├── network
-│   ├── database
-│   ├── ui
-│   └── analytics
-│
-├── domain
-│   ├── models
-│   └── usecases
-│
-├── feature
-│   ├── authentication
-│   ├── home
-│   ├── profile
-│   ├── search
-│   └── settings
-│
-└── build-logic
-    ├── convention
-    └── configuration
-
-Benefits
-. Clear ownership boundaries
-. Improved maintainability
-. Parallel development
-. Better testability
-. Reduced build impact
-. Reusable components
-. Clear dependency boundaries
-
-🏆 Achievement
-
-⭐ Star Performance Award — June 2026
-EXL Service
-
-Recognized for performance and contribution during the review period.
-
-
-
-📚 Learning & Training
-
-Generative AI
-Generative AI fundamentals
-AI application concepts
-AI use cases
-LLM concepts
-
-Generative AI on AWS
-Generative AI concepts
-AWS AI services
-AI application patterns
-Cloud-based AI workflows
-
-Generative AI — Case Studies & Prompt Engineering
-Prompt engineering
-AI use cases
-Practical case studies
-LLM interaction patterns
-
-Google Cloud / Professional Cloud Developer Learning
-Google Cloud fundamentals
-Cloud application development
-Developer tooling
-Cloud architecture concepts
-
-🔭 Currently Exploring
-
-Modern Android
-
-Kotlin
-
+```text
+Android Developer
+Senior Android Engineer
+Senior Android Platform Engineer
+Android Platform
+Kotlin Developer
+Java Developer
 Jetpack Compose
-
+Android SDK
+Android Architecture
+Clean Architecture
+MVVM
+MVI
 Mobile System Design
-
-Offline-First Architecture
-
+Multi-Module Android
+Offline-First Android
 Android Performance
-
+Android Reliability
+Kotlin Coroutines
+Kotlin Flow
+Room Database
+WorkManager
+Retrofit
+OkHttp
+REST APIs
+Firebase
+Android Security
+Android Keystore
+Biometric Authentication
+Gemini API
 Generative AI
-
-Gemini
-
+ML Kit
 LLM Integration
+AI Android
+AI Mobile Applications
+CI/CD
+GitHub Actions
+Gradle
+Fastlane
+Jenkins
+Mobile System Architecture
+Production Engineering
+Performance Engineering
+```
 
-Mobile Security
+---
 
-Kotlin Multiplatform
+### ⭐ Thanks for visiting!
 
-Compose Multiplatform
-
-Developer Productivity
-
-
-💡 Engineering Philosophy
-
-Simple Architecture
-        +
-Reliable Systems
-        +
-Measurable Performance
-        +
-Excellent User Experience
-        +
-Continuous Learning
-        =
-Production-Grade Android
-
-I believe good mobile engineering is not only about delivering features.
-
-It is about building systems that remain:
-
-Maintainable • Testable • Observable • Performant • Secure • Reliable
-
-through their entire production lifecycle.
+**Building reliable Android systems.
+Exploring AI-powered mobile experiences.
+Engineering for scale, performance and maintainability.**
